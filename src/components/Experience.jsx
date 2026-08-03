@@ -1,0 +1,82 @@
+const TIMELINE = [
+  {
+    num: '1',
+    company: '⚡ Atomxel',
+    role: 'Software Engineer Intern',
+    duration: 'June 2025 – May 2026',
+    location: 'Noida, India',
+    bullets: [
+      'Migrated legacy PHP CodeIgniter routes to Node.js/Express — accelerated Bridg e-commerce launch by 30% and integrated Google Places + Razorpay APIs across 4 order types.',
+      'Slashed API response times by 95% (32s → 1.3s) by profiling queries, adding indexes, and optimizing payload serialization — killed timeouts under concurrent load.',
+      'Rebuilt Orbit loyalty platform for 10K+ users: automated attendance tracking with anti-spoofing GPS verification and real-time alarm notifications.',
+      'Engineered full service dispatch + billing flow from scratch — automated invoicing with online/COD payments, eliminating manual technician dispatching.',
+      'Refactored 4 Play Store apps (Bridg, Orbit, JMP, S Mobility) to dynamically load branding configs from a tenant admin panel, staying under Play Store\'s strict 16KB size limits.',
+      'Achieved 100% audit accuracy for travel reimbursements — built a GPS sensor-to-backend cumulative distance tracking system replacing manual travel logs.',
+    ],
+    badge: '🏢 startup environment',
+  },
+  {
+    num: '2',
+    company: '💸 AlTogether',
+    role: 'Solo Builder',
+    duration: '2025',
+    location: 'Personal Project',
+    bullets: [
+      'Full-stack task management supporting 100+ concurrent CRUD ops — built with React, Node.js, Express, MongoDB, JWT auth with refresh token rotation.',
+      'Interactive Recharts analytics dashboard that improved productivity visibility by 60%. Paginated REST API, Multer file uploads, MongoDB aggregation pipelines.',
+    ],
+    badge: null,
+  },
+  {
+    num: '3',
+    company: '🎓 IGNOU',
+    role: 'Bachelor of Computer Applications',
+    duration: 'Jan 2025 – Dec 2027',
+    location: 'Delhi, India',
+    bullets: [
+      'Pursuing BCA at Indira Gandhi National Open University — studying alongside building real products.',
+      'Open university format means I learn theory, I apply it immediately. No gap between classroom and production.',
+    ],
+    badge: null,
+  },
+]
+
+export default function Experience() {
+  return (
+    <div className="container">
+      <span className="section-label">experience</span>
+      <h2 className="section-heading reveal">the path so far</h2>
+      <p className="section-sub reveal">the journey ✨</p>
+
+      <div className="timeline">
+        {TIMELINE.map((item, i) => (
+          <div
+            key={item.num}
+            className="timeline-item reveal"
+            style={{ transitionDelay: `${i * 100}ms` }}
+          >
+            <div className="timeline-num">{item.num}</div>
+
+            <div className="timeline-body">
+              <div className="timeline-header">
+                <span className="timeline-company">{item.company}</span>
+                <span className="timeline-duration">{item.duration}</span>
+              </div>
+              <p className="timeline-role">
+                {item.role} · <em>{item.location}</em>
+              </p>
+              <ul className="timeline-bullets">
+                {item.bullets.map((b, j) => (
+                  <li key={j}>{b}</li>
+                ))}
+              </ul>
+              {item.badge && (
+                <span className="timeline-badge">{item.badge}</span>
+              )}
+            </div>
+          </div>
+        ))}
+      </div>
+    </div>
+  )
+}
