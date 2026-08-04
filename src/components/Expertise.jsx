@@ -21,8 +21,7 @@ const SKILL_GROUPS = [
     label: 'Concepts',
     skills: [
       'ACID Transactions', 'API Versioning',
-      'Payment Integration', 'Cryptographic Verification',
-      'RESTful API Design', 'JWT Auth + Refresh Tokens',
+      'Payment Integration', 'RESTful API Design', 'JWT Auth + Refresh Tokens',
       'MongoDB Aggregation', 'Pagination & Filtering',
     ],
   },

@@ -2,7 +2,6 @@ const NAV_LINKS = [
   { href: '#hero',       label: 'about' },
   { href: '#experience', label: 'experience' },
   { href: '#projects',   label: 'projects' },
-  { href: '#expertise',  label: 'expertise' },
   { href: '#connect',    label: 'connect' },
 ]
 
@@ -37,6 +36,7 @@ export default function Navbar({ dark, setDark, activeSection, showResumeNav }) 
         <div className="navbar-inner">
           <a href="#hero" className="nav-logo">sumit.</a>
 
+          {/* Desktop nav links */}
           <div className="nav-right nav-links-desktop">
             {NAV_LINKS.map((link) => (
               <a
@@ -59,6 +59,27 @@ export default function Navbar({ dark, setDark, activeSection, showResumeNav }) 
               </a>
             )}
             <div className="nav-sep" />
+            <button
+              className="theme-btn"
+              onClick={() => setDark((d) => !d)}
+              aria-label="Toggle dark mode"
+            >
+              {dark ? <SunIcon /> : <MoonIcon />}
+            </button>
+          </div>
+
+          {/* Mobile top-right: CV link + theme toggle */}
+          <div className="mobile-topbar-right">
+            <a
+              href="/Sumit-Mishra-august-resume.pdf"
+              download="Sumit-Mishra-august-resume.pdf"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="nav-resume-link"
+              style={{ fontSize: '13px', padding: '5px 10px' }}
+            >
+              cv ↗
+            </a>
             <button
               className="theme-btn"
               onClick={() => setDark((d) => !d)}

@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" class="dark">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -11,7 +11,7 @@
     <meta name="keywords" content="Sumit Mishra, SDE, Software Engineer, React, Node.js, Delhi, Portfolio, Full Stack" />
     <meta name="author" content="Sumit Mishra" />
     <meta name="robots" content="index, follow" />
-    <meta name="theme-color" content="#f8f8f6" />
+    <meta name="theme-color" content="#111110" />
 
     <!-- OpenGraph -->
     <meta property="og:type" content="profile" />
@@ -49,6 +49,15 @@
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=Inter:wght@300;400;500;600&family=Caveat:wght@500;600&display=swap" rel="stylesheet" />
+
+    <!-- Dark mode: apply class before first paint to prevent flash -->
+    <script>
+      (function() {
+        try {
+          document.documentElement.classList.add('dark');
+        } catch(e) {}
+      })();
+    </script>
   </head>
   <body>
     <div id="root"></div>

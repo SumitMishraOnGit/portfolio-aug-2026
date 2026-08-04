@@ -1,0 +1,2487 @@
+<html lang="en" class="light"><head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Shailesh Acharya | Portfolio</title>
+
+  <!-- Primary SEO Meta Tags -->
+  <meta name="title" content="Shailesh Acharya | Portfolio">
+  <meta name="description" content="Official portfolio of Shailesh Acharya — Senior Assistant IT at Rastriya Banijya Bank (RBBL) and MSc CSIT graduate specializing in Python, AI/ML, and data systems.">
+  <meta name="keywords" content="Shailesh Acharya, Acharya Shailesh, Rastriya Banijya Bank, RBBL IT, Shailesh Acharya Portfolio, Senior Assistant IT RBBL, MSc CSIT Tribhuvan University, Software Engineer Nepal, AI ML Nepal, Python Data Analytics, Kathmandu">
+  <meta name="author" content="Shailesh Acharya">
+  <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
+  <link rel="canonical" href="https://acharyashailesh.com.np/">
+  <link rel="icon" type="image/svg+xml" href="favicon.svg">
+  <link rel="apple-touch-icon" href="favicon.svg">
+
+  <!-- Geographic & Locale Tags -->
+  <meta name="geo.region" content="NP-P3">
+  <meta name="geo.placename" content="Kathmandu">
+  <meta name="geo.position" content="27.7172;85.3240">
+  <meta name="ICBM" content="27.7172, 85.3240">
+  <meta name="theme-color" content="#f8f8f6">
+
+  <!-- OpenGraph / Facebook -->
+  <meta property="og:type" content="profile">
+  <meta property="og:site_name" content="Shailesh Acharya Portfolio">
+  <meta property="og:locale" content="en_US">
+  <meta property="og:title" content="Shailesh Acharya | Portfolio">
+  <meta property="og:description" content="Official portfolio of Shailesh Acharya — Senior Assistant IT at Rastriya Banijya Bank (RBBL) and MSc CSIT graduate specializing in Python, AI/ML, and data systems.">
+  <meta property="og:url" content="https://acharyashailesh.com.np/">
+  <meta property="og:image" content="https://acharyashailesh.com.np/profile.jpg">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:image:alt" content="Shailesh Acharya - Senior Assistant IT @ RBBL">
+  <meta property="profile:first_name" content="Shailesh">
+  <meta property="profile:last_name" content="Acharya">
+  <meta property="profile:username" content="iamshaileshacharya">
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@ping_shailesh">
+  <meta name="twitter:creator" content="@ping_shailesh">
+  <meta name="twitter:title" content="Shailesh Acharya | Portfolio">
+  <meta name="twitter:description" content="Official portfolio of Shailesh Acharya — Senior Assistant IT at Rastriya Banijya Bank (RBBL) and MSc CSIT graduate specializing in Python, AI/ML, and data systems.">
+  <meta name="twitter:image" content="https://acharyashailesh.com.np/profile.jpg">
+
+  <!-- Structured Data JSON-LD (Person & WebSite Schema) -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Person",
+        "@id": "https://acharyashailesh.com.np/#person",
+        "name": "Shailesh Acharya",
+        "additionalName": "Acharya Shailesh",
+        "url": "https://acharyashailesh.com.np/",
+        "image": "https://acharyashailesh.com.np/profile.jpg",
+        "description": "Official portfolio of Shailesh Acharya — Senior Assistant IT at Rastriya Banijya Bank (RBBL) and MSc CSIT graduate specializing in Python, AI/ML, and data systems.",
+        "jobTitle": "Senior Assistant IT",
+        "worksFor": {
+          "@type": "Organization",
+          "name": "Rastriya Banijya Bank (RBBL)",
+          "url": "https://www.rbb.com.np/"
+        },
+        "alumniOf": [
+          {
+            "@type": "EducationalOrganization",
+            "name": "Tribhuvan University (TU)",
+            "url": "https://tribhuvan-university.edu.np/"
+          }
+        ],
+        "knowsAbout": [
+          "Core Banking Systems",
+          "Python Programming",
+          "Machine Learning",
+          "Artificial Intelligence",
+          "SQL Database Administration",
+          "Data Analytics",
+          "Network Infrastructure",
+          "Systems Security"
+        ],
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Kathmandu",
+          "addressCountry": "NP"
+        },
+        "sameAs": [
+          "https://github.com/iamshaileshacharya",
+          "https://linkedin.com/in/shailesh-acharya",
+          "https://twitter.com/ping_shailesh"
+        ]
+      },
+      {
+        "@type": "WebSite",
+        "@id": "https://acharyashailesh.com.np/#website",
+        "url": "https://acharyashailesh.com.np/",
+        "name": "Shailesh Acharya Portfolio",
+        "publisher": {
+          "@id": "https://acharyashailesh.com.np/#person"
+        },
+        "inLanguage": "en-US"
+      }
+    ]
+  }
+  </script>
+
+  <!-- Resource Preloads & Font Optimization -->
+  
+  
+  <link rel="preload" as="image" href="profile.webp" type="image/webp" fetchpriority="high">
+  <style type="text/css">@font-face {font-family:'Inter';font-style:normal;font-weight:400;src:url(/cf-fonts/v/inter/5.2.8/vietnamese/wght/normal.woff2);unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1EA0-1EF9,U+20AB;font-display:swap;}@font-face {font-family:'Inter';font-style:normal;font-weight:400;src:url(/cf-fonts/v/inter/5.2.8/greek/wght/normal.woff2);unicode-range:U+0370-0377,U+037A-037F,U+0384-038A,U+038C,U+038E-03A1,U+03A3-03FF;font-display:swap;}@font-face {font-family:'Inter';font-style:normal;font-weight:400;src:url(/cf-fonts/v/inter/5.2.8/latin-ext/wght/normal.woff2);unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF;font-display:swap;}@font-face {font-family:'Inter';font-style:normal;font-weight:400;src:url(/cf-fonts/v/inter/5.2.8/cyrillic-ext/wght/normal.woff2);unicode-range:U+0460-052F,U+1C80-1C8A,U+20B4,U+2DE0-2DFF,U+A640-A69F,U+FE2E-FE2F;font-display:swap;}@font-face {font-family:'Inter';font-style:normal;font-weight:400;src:url(/cf-fonts/v/inter/5.2.8/greek-ext/wght/normal.woff2);unicode-range:U+1F00-1FFF;font-display:swap;}@font-face {font-family:'Inter';font-style:normal;font-weight:400;src:url(/cf-fonts/v/inter/5.2.8/cyrillic/wght/normal.woff2);unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116;font-display:swap;}@font-face {font-family:'Inter';font-style:normal;font-weight:400;src:url(/cf-fonts/v/inter/5.2.8/latin/wght/normal.woff2);unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;font-display:swap;}@font-face {font-family:'Inter';font-style:normal;font-weight:500;src:url(/cf-fonts/v/inter/5.2.8/vietnamese/wght/normal.woff2);unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1EA0-1EF9,U+20AB;font-display:swap;}@font-face {font-family:'Inter';font-style:normal;font-weight:500;src:url(/cf-fonts/v/inter/5.2.8/cyrillic-ext/wght/normal.woff2);unicode-range:U+0460-052F,U+1C80-1C8A,U+20B4,U+2DE0-2DFF,U+A640-A69F,U+FE2E-FE2F;font-display:swap;}@font-face {font-family:'Inter';font-style:normal;font-weight:500;src:url(/cf-fonts/v/inter/5.2.8/greek/wght/normal.woff2);unicode-range:U+0370-0377,U+037A-037F,U+0384-038A,U+038C,U+038E-03A1,U+03A3-03FF;font-display:swap;}@font-face {font-family:'Inter';font-style:normal;font-weight:500;src:url(/cf-fonts/v/inter/5.2.8/latin/wght/normal.woff2);unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;font-display:swap;}@font-face {font-family:'Inter';font-style:normal;font-weight:500;src:url(/cf-fonts/v/inter/5.2.8/cyrillic/wght/normal.woff2);unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116;font-display:swap;}@font-face {font-family:'Inter';font-style:normal;font-weight:500;src:url(/cf-fonts/v/inter/5.2.8/greek-ext/wght/normal.woff2);unicode-range:U+1F00-1FFF;font-display:swap;}@font-face {font-family:'Inter';font-style:normal;font-weight:500;src:url(/cf-fonts/v/inter/5.2.8/latin-ext/wght/normal.woff2);unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF;font-display:swap;}@font-face {font-family:'Inter';font-style:normal;font-weight:600;src:url(/cf-fonts/v/inter/5.2.8/cyrillic-ext/wght/normal.woff2);unicode-range:U+0460-052F,U+1C80-1C8A,U+20B4,U+2DE0-2DFF,U+A640-A69F,U+FE2E-FE2F;font-display:swap;}@font-face {font-family:'Inter';font-style:normal;font-weight:600;src:url(/cf-fonts/v/inter/5.2.8/cyrillic/wght/normal.woff2);unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116;font-display:swap;}@font-face {font-family:'Inter';font-style:normal;font-weight:600;src:url(/cf-fonts/v/inter/5.2.8/latin/wght/normal.woff2);unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;font-display:swap;}@font-face {font-family:'Inter';font-style:normal;font-weight:600;src:url(/cf-fonts/v/inter/5.2.8/latin-ext/wght/normal.woff2);unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF;font-display:swap;}@font-face {font-family:'Inter';font-style:normal;font-weight:600;src:url(/cf-fonts/v/inter/5.2.8/greek/wght/normal.woff2);unicode-range:U+0370-0377,U+037A-037F,U+0384-038A,U+038C,U+038E-03A1,U+03A3-03FF;font-display:swap;}@font-face {font-family:'Inter';font-style:normal;font-weight:600;src:url(/cf-fonts/v/inter/5.2.8/vietnamese/wght/normal.woff2);unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1EA0-1EF9,U+20AB;font-display:swap;}@font-face {font-family:'Inter';font-style:normal;font-weight:600;src:url(/cf-fonts/v/inter/5.2.8/greek-ext/wght/normal.woff2);unicode-range:U+1F00-1FFF;font-display:swap;}@font-face {font-family:'Inter';font-style:normal;font-weight:700;src:url(/cf-fonts/v/inter/5.2.8/cyrillic-ext/wght/normal.woff2);unicode-range:U+0460-052F,U+1C80-1C8A,U+20B4,U+2DE0-2DFF,U+A640-A69F,U+FE2E-FE2F;font-display:swap;}@font-face {font-family:'Inter';font-style:normal;font-weight:700;src:url(/cf-fonts/v/inter/5.2.8/cyrillic/wght/normal.woff2);unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116;font-display:swap;}@font-face {font-family:'Inter';font-style:normal;font-weight:700;src:url(/cf-fonts/v/inter/5.2.8/greek/wght/normal.woff2);unicode-range:U+0370-0377,U+037A-037F,U+0384-038A,U+038C,U+038E-03A1,U+03A3-03FF;font-display:swap;}@font-face {font-family:'Inter';font-style:normal;font-weight:700;src:url(/cf-fonts/v/inter/5.2.8/latin-ext/wght/normal.woff2);unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF;font-display:swap;}@font-face {font-family:'Inter';font-style:normal;font-weight:700;src:url(/cf-fonts/v/inter/5.2.8/vietnamese/wght/normal.woff2);unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1EA0-1EF9,U+20AB;font-display:swap;}@font-face {font-family:'Inter';font-style:normal;font-weight:700;src:url(/cf-fonts/v/inter/5.2.8/latin/wght/normal.woff2);unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;font-display:swap;}@font-face {font-family:'Inter';font-style:normal;font-weight:700;src:url(/cf-fonts/v/inter/5.2.8/greek-ext/wght/normal.woff2);unicode-range:U+1F00-1FFF;font-display:swap;}@font-face {font-family:'JetBrains Mono';font-style:normal;font-weight:400;src:url(/cf-fonts/v/jetbrains-mono/5.2.8/vietnamese/wght/normal.woff2);unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1EA0-1EF9,U+20AB;font-display:swap;}@font-face {font-family:'JetBrains Mono';font-style:normal;font-weight:400;src:url(/cf-fonts/v/jetbrains-mono/5.2.8/cyrillic-ext/wght/normal.woff2);unicode-range:U+0460-052F,U+1C80-1C8A,U+20B4,U+2DE0-2DFF,U+A640-A69F,U+FE2E-FE2F;font-display:swap;}@font-face {font-family:'JetBrains Mono';font-style:normal;font-weight:400;src:url(/cf-fonts/v/jetbrains-mono/5.2.8/cyrillic/wght/normal.woff2);unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116;font-display:swap;}@font-face {font-family:'JetBrains Mono';font-style:normal;font-weight:400;src:url(/cf-fonts/v/jetbrains-mono/5.2.8/greek/wght/normal.woff2);unicode-range:U+0370-0377,U+037A-037F,U+0384-038A,U+038C,U+038E-03A1,U+03A3-03FF;font-display:swap;}@font-face {font-family:'JetBrains Mono';font-style:normal;font-weight:400;src:url(/cf-fonts/v/jetbrains-mono/5.2.8/latin/wght/normal.woff2);unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;font-display:swap;}@font-face {font-family:'JetBrains Mono';font-style:normal;font-weight:400;src:url(/cf-fonts/v/jetbrains-mono/5.2.8/latin-ext/wght/normal.woff2);unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF;font-display:swap;}@font-face {font-family:'JetBrains Mono';font-style:normal;font-weight:500;src:url(/cf-fonts/v/jetbrains-mono/5.2.8/latin/wght/normal.woff2);unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;font-display:swap;}@font-face {font-family:'JetBrains Mono';font-style:normal;font-weight:500;src:url(/cf-fonts/v/jetbrains-mono/5.2.8/cyrillic-ext/wght/normal.woff2);unicode-range:U+0460-052F,U+1C80-1C8A,U+20B4,U+2DE0-2DFF,U+A640-A69F,U+FE2E-FE2F;font-display:swap;}@font-face {font-family:'JetBrains Mono';font-style:normal;font-weight:500;src:url(/cf-fonts/v/jetbrains-mono/5.2.8/latin-ext/wght/normal.woff2);unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF;font-display:swap;}@font-face {font-family:'JetBrains Mono';font-style:normal;font-weight:500;src:url(/cf-fonts/v/jetbrains-mono/5.2.8/cyrillic/wght/normal.woff2);unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116;font-display:swap;}@font-face {font-family:'JetBrains Mono';font-style:normal;font-weight:500;src:url(/cf-fonts/v/jetbrains-mono/5.2.8/greek/wght/normal.woff2);unicode-range:U+0370-0377,U+037A-037F,U+0384-038A,U+038C,U+038E-03A1,U+03A3-03FF;font-display:swap;}@font-face {font-family:'JetBrains Mono';font-style:normal;font-weight:500;src:url(/cf-fonts/v/jetbrains-mono/5.2.8/vietnamese/wght/normal.woff2);unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1EA0-1EF9,U+20AB;font-display:swap;}@font-face {font-family:'JetBrains Mono';font-style:normal;font-weight:600;src:url(/cf-fonts/v/jetbrains-mono/5.2.8/cyrillic/wght/normal.woff2);unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116;font-display:swap;}@font-face {font-family:'JetBrains Mono';font-style:normal;font-weight:600;src:url(/cf-fonts/v/jetbrains-mono/5.2.8/greek/wght/normal.woff2);unicode-range:U+0370-0377,U+037A-037F,U+0384-038A,U+038C,U+038E-03A1,U+03A3-03FF;font-display:swap;}@font-face {font-family:'JetBrains Mono';font-style:normal;font-weight:600;src:url(/cf-fonts/v/jetbrains-mono/5.2.8/cyrillic-ext/wght/normal.woff2);unicode-range:U+0460-052F,U+1C80-1C8A,U+20B4,U+2DE0-2DFF,U+A640-A69F,U+FE2E-FE2F;font-display:swap;}@font-face {font-family:'JetBrains Mono';font-style:normal;font-weight:600;src:url(/cf-fonts/v/jetbrains-mono/5.2.8/vietnamese/wght/normal.woff2);unicode-range:U+0102-0103,U+0110-0111,U+0128-0129,U+0168-0169,U+01A0-01A1,U+01AF-01B0,U+0300-0301,U+0303-0304,U+0308-0309,U+0323,U+0329,U+1EA0-1EF9,U+20AB;font-display:swap;}@font-face {font-family:'JetBrains Mono';font-style:normal;font-weight:600;src:url(/cf-fonts/v/jetbrains-mono/5.2.8/latin-ext/wght/normal.woff2);unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF;font-display:swap;}@font-face {font-family:'JetBrains Mono';font-style:normal;font-weight:600;src:url(/cf-fonts/v/jetbrains-mono/5.2.8/latin/wght/normal.woff2);unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;font-display:swap;}@font-face {font-family:'Caveat';font-style:normal;font-weight:500;src:url(/cf-fonts/v/caveat/5.2.8/cyrillic/wght/normal.woff2);unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116;font-display:swap;}@font-face {font-family:'Caveat';font-style:normal;font-weight:500;src:url(/cf-fonts/v/caveat/5.2.8/latin/wght/normal.woff2);unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;font-display:swap;}@font-face {font-family:'Caveat';font-style:normal;font-weight:500;src:url(/cf-fonts/v/caveat/5.2.8/cyrillic-ext/wght/normal.woff2);unicode-range:U+0460-052F,U+1C80-1C8A,U+20B4,U+2DE0-2DFF,U+A640-A69F,U+FE2E-FE2F;font-display:swap;}@font-face {font-family:'Caveat';font-style:normal;font-weight:500;src:url(/cf-fonts/v/caveat/5.2.8/latin-ext/wght/normal.woff2);unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF;font-display:swap;}@font-face {font-family:'Caveat';font-style:normal;font-weight:600;src:url(/cf-fonts/v/caveat/5.2.8/latin-ext/wght/normal.woff2);unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF;font-display:swap;}@font-face {font-family:'Caveat';font-style:normal;font-weight:600;src:url(/cf-fonts/v/caveat/5.2.8/cyrillic/wght/normal.woff2);unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116;font-display:swap;}@font-face {font-family:'Caveat';font-style:normal;font-weight:600;src:url(/cf-fonts/v/caveat/5.2.8/latin/wght/normal.woff2);unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;font-display:swap;}@font-face {font-family:'Caveat';font-style:normal;font-weight:600;src:url(/cf-fonts/v/caveat/5.2.8/cyrillic-ext/wght/normal.woff2);unicode-range:U+0460-052F,U+1C80-1C8A,U+20B4,U+2DE0-2DFF,U+A640-A69F,U+FE2E-FE2F;font-display:swap;}@font-face {font-family:'Caveat';font-style:normal;font-weight:700;src:url(/cf-fonts/v/caveat/5.2.8/cyrillic/wght/normal.woff2);unicode-range:U+0301,U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116;font-display:swap;}@font-face {font-family:'Caveat';font-style:normal;font-weight:700;src:url(/cf-fonts/v/caveat/5.2.8/latin/wght/normal.woff2);unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD;font-display:swap;}@font-face {font-family:'Caveat';font-style:normal;font-weight:700;src:url(/cf-fonts/v/caveat/5.2.8/cyrillic-ext/wght/normal.woff2);unicode-range:U+0460-052F,U+1C80-1C8A,U+20B4,U+2DE0-2DFF,U+A640-A69F,U+FE2E-FE2F;font-display:swap;}@font-face {font-family:'Caveat';font-style:normal;font-weight:700;src:url(/cf-fonts/v/caveat/5.2.8/latin-ext/wght/normal.woff2);unicode-range:U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF;font-display:swap;}</style>
+
+  <style>
+    /* ═══════════════════════════════════════════
+       DESIGN SYSTEM — Matte Grey / Refined Blue
+       ═══════════════════════════════════════════ */
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --font-sans: 'Inter', system-ui, -apple-system, sans-serif;
+      --font-mono: 'JetBrains Mono', ui-monospace, monospace;
+      --font-hand: 'Caveat', cursive;
+
+    /* Warm paper palette — matching reference */
+    --bg: #fafaf8;
+    --fg: #171717;
+    --muted: #6b7280;
+    --faint: #9ca3af;
+    --accent: #c26e38; /* Warm terracotta brown for arrows & annotations */
+    --accent-soft: rgba(194, 110, 56, 0.05);
+    --surface: #f4f4ef;
+    --border: #dcd7ce; /* Richer warm stone border for clear definition */
+    --card-bg: transparent;
+
+    --radius: 16px;
+    --radius-sm: 10px;
+    --radius-full: 9999px;
+
+    color-scheme: light;
+  }
+
+  .dark {
+    /* Deep matte black palette — matching reference */
+    --bg: #0a0a0a;
+    --fg: #fafaf8;
+    --muted: #9ca3af;
+    --faint: #525252;
+    --accent: #f59e0b; /* Golden yellow for dark mode arrows & annotations */
+    --accent-soft: rgba(245, 158, 11, 0.05);
+    --surface: #141414;
+    --border: #282825; /* Richer charcoal border for clear definition */
+    --card-bg: transparent;
+
+    color-scheme: dark;
+  }
+
+    .dark { --theme-color: #0a0a0a; }
+
+    /* ── BASE ── */
+    html { scroll-behavior: smooth; }
+
+    body {
+      background: var(--bg);
+      color: var(--fg);
+      font-family: var(--font-sans);
+      font-size: 16px;
+      line-height: 1.6;
+      -webkit-font-smoothing: antialiased;
+      -moz-osx-font-smoothing: grayscale;
+      overflow-x: hidden;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      transition: background 0.5s ease, color 0.5s ease;
+    }
+
+    a { text-decoration: none; color: inherit; }
+    a:focus-visible, button:focus-visible {
+      outline: 2px solid var(--accent);
+      outline-offset: 3px;
+      border-radius: 4px;
+    }
+
+    /* ── NOISE / GRAIN TEXTURE (enhanced for matte feel) ── */
+    body::before {
+      content: '';
+      position: fixed;
+      inset: 0;
+      z-index: 9999;
+      pointer-events: none;
+      opacity: 0.032;
+      background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+      background-repeat: repeat;
+      background-size: 200px;
+    }
+
+    .dark body::before { opacity: 0.045; }
+
+    /* ── SCROLL PROGRESS BAR (shimmer effect) ── */
+    #scroll-progress {
+      position: fixed;
+      top: 0;
+      left: 0;
+      height: 2px;
+      background: linear-gradient(90deg, var(--accent), #818cf8, var(--accent));
+      background-size: 200% 100%;
+      animation: shimmerBar 3s ease infinite;
+      z-index: 1000;
+      width: 0%;
+      transition: width 0.05s linear;
+    }
+
+    @keyframes shimmerBar {
+      0% { background-position: 200% 0; }
+      100% { background-position: -200% 0; }
+    }
+
+
+    /* ═══════════════════════════════════════════
+       NAVBAR — Matte Frosted
+       ═══════════════════════════════════════════ */
+    .navbar {
+      position: fixed;
+      inset-inline: 0;
+      top: 0;
+      z-index: 500;
+      border-bottom: 1px solid var(--border);
+      background: rgba(248, 248, 246, 0.82);
+      backdrop-filter: blur(18px) saturate(160%);
+      -webkit-backdrop-filter: blur(18px) saturate(160%);
+      transition: background 0.5s ease, border-color 0.5s ease;
+    }
+    .dark .navbar {
+      background: rgba(17, 17, 17, 0.82);
+    }
+
+    .navbar-inner {
+      max-width: 880px;
+      margin: 0 auto;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      height: 56px;
+      padding: 0 24px;
+    }
+
+    .nav-name {
+      font-weight: 600;
+      font-size: 15px;
+      letter-spacing: -0.02em;
+      color: var(--fg);
+    }
+
+    .nav-links-desktop {
+      display: flex;
+      align-items: center;
+      gap: 4px;
+    }
+
+    .nav-links-desktop a {
+      font-size: 14px;
+      color: var(--muted);
+      padding: 6px 14px;
+      border-radius: var(--radius-full);
+      transition: color 0.2s ease, background 0.2s ease;
+      position: relative;
+    }
+
+    .nav-links-desktop a:hover {
+      color: var(--fg);
+      background: var(--surface);
+    }
+
+    .nav-sep {
+      width: 1px;
+      height: 16px;
+      background: var(--border);
+      margin: 0 6px;
+    }
+
+    .theme-toggle {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      width: 34px;
+      height: 34px;
+      border-radius: var(--radius-full);
+      border: none;
+      background: transparent;
+      color: var(--muted);
+      cursor: pointer;
+      transition: color 0.2s ease, background 0.2s ease;
+    }
+    .theme-toggle:hover { color: var(--fg); background: var(--surface); }
+    .theme-toggle svg { width: 16px; height: 16px; }
+    .theme-toggle .icon-moon { display: none; }
+    .dark .theme-toggle .icon-sun { display: none; }
+    .dark .theme-toggle .icon-moon { display: block; }
+
+    /* ── MOBILE BOTTOM NAV ── */
+    .mobile-nav {
+      display: none;
+      position: fixed;
+      bottom: 16px;
+      left: 50%;
+      transform: translateX(-50%);
+      z-index: 500;
+      background: rgba(248, 248, 246, 0.88);
+      backdrop-filter: blur(18px) saturate(160%);
+      -webkit-backdrop-filter: blur(18px) saturate(160%);
+      border: 1px solid var(--border);
+      border-radius: var(--radius-full);
+      padding: 6px 8px;
+      box-shadow: 0 8px 32px rgba(0,0,0,0.06), 0 2px 8px rgba(0,0,0,0.03);
+    }
+    .dark .mobile-nav {
+      background: rgba(17, 17, 17, 0.88);
+      box-shadow: 0 8px 32px rgba(0,0,0,0.3);
+    }
+
+    .mobile-nav-inner {
+      display: flex;
+      align-items: center;
+      gap: 2px;
+    }
+
+    .mobile-nav a {
+      padding: 8px 12px;
+      font-size: 13px;
+      color: var(--muted);
+      border-radius: var(--radius-full);
+      transition: color 0.2s ease;
+      white-space: nowrap;
+    }
+    .mobile-nav a:hover { color: var(--fg); }
+
+    .mobile-nav .nav-sep { margin: 0 2px; }
+
+    /* ═══════════════════════════════════════════
+       MAIN CONTENT
+       ═══════════════════════════════════════════ */
+    main {
+      flex: 1;
+      padding-top: 56px;
+    }
+
+    .container {
+      max-width: 880px;
+      margin: 0 auto;
+      padding: 0 24px;
+    }
+
+    /* ═══════════════════════════════════════════
+       HERO SECTION
+       ═══════════════════════════════════════════ */
+    .hero {
+      position: relative;
+      padding: 56px 0 64px;
+      overflow: hidden;
+    }
+
+    /* Animated gradient orbs (muted for matte feel) */
+    .hero-orbs {
+      position: absolute;
+      inset: 0;
+      overflow: hidden;
+      pointer-events: none;
+      z-index: 0;
+    }
+
+    .orb {
+      position: absolute;
+      border-radius: 50%;
+      filter: blur(100px);
+      animation: orbFloat 20s ease-in-out infinite;
+    }
+
+    .orb-1 {
+      width: 500px; height: 500px;
+      background: var(--orb-1);
+      top: -100px; right: -80px;
+      animation-duration: 22s;
+    }
+
+    .orb-2 {
+      width: 400px; height: 400px;
+      background: var(--orb-2);
+      bottom: -60px; left: -100px;
+      animation-duration: 18s;
+      animation-delay: -8s;
+    }
+
+    .orb-3 {
+      width: 300px; height: 300px;
+      background: var(--orb-3);
+      top: 30%; left: 40%;
+      animation-duration: 25s;
+      animation-delay: -14s;
+    }
+
+    @keyframes orbFloat {
+      0%, 100% { transform: translate(0, 0) scale(1); }
+      33% { transform: translate(30px, -40px) scale(1.05); }
+      66% { transform: translate(-20px, 20px) scale(0.95); }
+    }
+
+    .hero-content {
+      position: relative;
+      z-index: 1;
+      display: grid;
+      grid-template-columns: 1fr auto;
+      gap: 48px;
+      align-items: center;
+    }
+
+    .hero-text { display: flex; flex-direction: column; }
+
+    /* Status line */
+    .status-line {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      font-family: var(--font-mono);
+      font-size: 12px;
+      color: var(--muted);
+      margin-bottom: 20px;
+    }
+
+    .status-dot {
+      position: relative;
+      width: 7px; height: 7px;
+      flex-shrink: 0;
+    }
+    .status-dot::before {
+      content: '';
+      position: absolute;
+      inset: 0;
+      border-radius: 50%;
+      background: #10b981;
+    }
+    .status-dot::after {
+      content: '';
+      position: absolute;
+      inset: -2px;
+      border-radius: 50%;
+      background: #10b981;
+      opacity: 0.4;
+      animation: blink 2s ease-in-out infinite;
+    }
+
+    @keyframes blink {
+      0%, 100% { transform: scale(1); opacity: 0.4; }
+      50% { transform: scale(2); opacity: 0; }
+    }
+
+    /* Hero greeting annotation "hello, i'm 👋" */
+    .hero-greeting-annotation {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      margin-bottom: 8px;
+      color: var(--accent);
+    }
+    .hero-greeting-annotation span {
+      font-family: var(--font-hand);
+      font-size: 22px;
+      font-weight: 600;
+      white-space: nowrap;
+      color: var(--accent);
+    }
+    .hero-greeting-annotation svg {
+      width: 36px;
+      height: 24px;
+      color: var(--accent);
+    }
+
+    /* Name heading — single line display */
+    .hero-name {
+      font-size: clamp(42px, 6vw, 68px);
+      font-weight: 700;
+      letter-spacing: -0.035em;
+      line-height: 1.1;
+      color: var(--fg);
+      margin-bottom: 16px;
+      position: relative;
+    }
+
+    .hero-name .letter {
+      display: inline-block;
+      transition: transform 0.25s ease, color 0.25s ease;
+    }
+    .hero-name .letter:hover {
+      transform: translateY(-4px);
+      color: var(--accent);
+    }
+
+    .hero-name .word { 
+      display: inline-block; 
+      margin-right: 0.22em;
+      white-space: nowrap;
+    }
+
+    /* Subtitle — soft readable neutral, wider max-width for natural flow */
+    .hero-subtitle {
+      font-size: clamp(17px, 2.2vw, 20px);
+      color: #4b5563;
+      line-height: 1.55;
+      max-width: 580px;
+      margin-top: 12px;
+      margin-bottom: 14px;
+      font-weight: 400;
+    }
+    .dark .hero-subtitle {
+      color: #a3a3a3;
+    }
+
+    /* Location & Time — clean lowercase monospace with generous spacing */
+    .hero-meta {
+      font-family: var(--font-mono);
+      font-size: 13px;
+      color: var(--muted);
+      letter-spacing: 0.01em;
+      margin-top: 14px;
+      margin-bottom: 32px;
+      opacity: 0.85;
+    }
+
+    /* Rise-in animation for letters */
+    .rise-in {
+      opacity: 0;
+      transform: translateY(14px);
+      animation: riseIn 0.5s ease forwards;
+    }
+
+    @keyframes riseIn {
+      to { opacity: 1; transform: translateY(0); }
+    }
+
+    /* Hero CTA & Annotations */
+    .hero-cta {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      gap: 16px;
+      margin-bottom: 40px;
+    }
+
+    .btn-primary {
+      display: inline-flex;
+      align-items: center;
+      height: 44px;
+      padding: 0 24px;
+      font-size: 14px;
+      font-weight: 500;
+      color: var(--bg);
+      background: var(--fg);
+      border: none;
+      border-radius: var(--radius-full);
+      cursor: pointer;
+      transition: transform 0.2s cubic-bezier(.34,1.56,.64,1), box-shadow 0.2s ease;
+      position: relative;
+      overflow: hidden;
+    }
+    .btn-primary:hover {
+      transform: translateY(-2px) scale(1.02);
+      box-shadow: 0 6px 24px rgba(0,0,0,0.12);
+    }
+    .btn-primary:active { transform: scale(0.97); }
+
+    /* Magnetic hover area for CTA */
+    .btn-magnetic {
+      display: inline-block;
+      transition: transform 0.2s cubic-bezier(.34,1.56,.64,1);
+    }
+
+    .hero-email {
+      font-size: 14px;
+      color: var(--muted);
+      transition: color 0.2s ease;
+      position: relative;
+    }
+    .hero-email:hover { color: var(--fg); }
+    .hero-email::after {
+      content: '';
+      position: absolute;
+      bottom: -2px;
+      left: 0;
+      width: 0;
+      height: 1px;
+      background: var(--fg);
+      transition: width 0.3s ease;
+    }
+    .hero-email:hover::after { width: 100%; }
+
+    /* CTA annotation "i actually reply" */
+    .hero-annotation {
+      display: inline-flex;
+      align-items: flex-start;
+      gap: 6px;
+      color: var(--accent);
+      margin-left: 8px;
+    }
+    .hero-annotation span {
+      font-family: var(--font-hand);
+      font-size: 21px;
+      font-weight: 600;
+      line-height: 1.1;
+      white-space: nowrap;
+      color: var(--accent);
+    }
+    .hero-annotation svg {
+      width: 44px;
+      height: 40px;
+      flex-shrink: 0;
+      margin-top: 4px;
+      color: var(--accent);
+    }
+
+    /* Photo annotations "that's me" and "works @ RBBL" */
+    .hero-photo-annotation {
+      position: absolute;
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      color: var(--accent);
+      z-index: 10;
+      pointer-events: none;
+    }
+
+    .hero-photo-annotation--me {
+      top: -26px;
+      right: -40px;
+    }
+
+    /* "works @ RBBL" annotation — floats above-right of name */
+    .hero-name-annotation {
+      position: absolute;
+      right: -10px;
+      top: -36px;
+      display: flex;
+      align-items: flex-end;
+      gap: 2px;
+      pointer-events: none;
+      z-index: 10;
+    }
+    .hero-name-annotation span {
+      font-family: var(--font-hand);
+      font-size: 20px;
+      font-weight: 600;
+      white-space: nowrap;
+      color: var(--accent);
+    }
+    .hero-name-annotation svg {
+      width: 30px;
+      height: 30px;
+      flex-shrink: 0;
+      color: var(--accent);
+      transform: translateY(6px);
+    }
+
+    .hero-photo-annotation span {
+      font-family: var(--font-hand);
+      font-size: 20px;
+      font-weight: 600;
+      white-space: nowrap;
+      color: var(--accent);
+    }
+
+    .hero-photo-annotation svg {
+      width: 32px;
+      height: 32px;
+      flex-shrink: 0;
+      color: var(--accent);
+    }
+
+    /* Draw-on-scroll SVG arrows */
+    .draw-arrow {
+      color: var(--accent);
+    }
+    .draw-arrow path {
+      stroke: currentColor;
+      stroke-dasharray: 1;
+      stroke-dashoffset: 1;
+      transition: stroke-dashoffset 0.8s cubic-bezier(.4,0,.2,1);
+    }
+    .draw-arrow.drawn path {
+      stroke-dashoffset: 0;
+    }
+
+    /* Stack icons */
+    .stack-row {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      gap: 8px;
+    }
+
+    .stack-label {
+      font-family: var(--font-hand);
+      font-size: 19px;
+      font-weight: 600;
+      color: var(--accent);
+      margin-right: 4px;
+    }
+
+    .stack-icon {
+      width: 40px; height: 40px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      border-radius: var(--radius-full);
+      border: 1px solid var(--border);
+      background: var(--surface);
+      color: var(--muted);
+      font-size: 13px;
+      font-family: var(--font-mono);
+      font-weight: 600;
+      transition: transform 0.25s cubic-bezier(.34,1.56,.64,1), border-color 0.25s ease, color 0.25s ease;
+    }
+    .stack-icon:hover {
+      transform: translateY(-3px);
+      border-color: var(--accent);
+      color: var(--accent);
+    }
+
+    /* Hero photo */
+    .hero-photo-wrap {
+      position: relative;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    /* Floating doodles around photo */
+    .photo-doodles {
+      position: absolute;
+      inset: -30px;
+      pointer-events: none;
+    }
+
+    .doodle {
+      position: absolute;
+      color: var(--accent);
+      opacity: 0.6;
+      animation: doodleFloat 6s ease-in-out infinite;
+    }
+
+    .doodle-star {
+      font-size: 14px;
+      top: 10%;
+      right: 5%;
+      animation-delay: 0s;
+    }
+    .doodle-dot {
+      width: 5px; height: 5px;
+      border-radius: 50%;
+      background: var(--accent);
+      opacity: 0.5;
+      bottom: 15%;
+      left: 5%;
+      animation-delay: -2s;
+    }
+    .doodle-circle {
+      width: 12px; height: 12px;
+      border: 1.5px solid var(--accent);
+      border-radius: 50%;
+      opacity: 0.5;
+      top: 60%;
+      right: 0%;
+      animation-delay: -4s;
+    }
+    .doodle-plus {
+      font-size: 16px;
+      font-weight: 300;
+      bottom: 5%;
+      right: 25%;
+      animation-delay: -1s;
+    }
+    .doodle-squiggle {
+      top: 5%;
+      left: 10%;
+      animation-delay: -3s;
+    }
+
+    @keyframes doodleFloat {
+      0%, 100% { transform: translate(0, 0) rotate(0deg); }
+      33% { transform: translate(4px, -6px) rotate(5deg); }
+      66% { transform: translate(-3px, 3px) rotate(-3deg); }
+    }
+
+    .hero-photo {
+      position: relative;
+      width: 200px; height: 200px;
+      border-radius: 50%;
+      overflow: hidden;
+      border: 2px solid var(--border);
+      transition: border-color 0.3s ease, transform 0.3s ease;
+    }
+    .hero-photo:hover {
+      border-color: var(--accent);
+      transform: scale(1.02);
+    }
+    .hero-photo img {
+      width: 100%; height: 100%;
+      object-fit: cover;
+      object-position: top center;
+      display: block;
+    }
+
+    /* ═══════════════════════════════════════════
+       SECTION CONNECTOR — hand drawn line between sections
+       ═══════════════════════════════════════════ */
+    .section-connector {
+      display: flex;
+      justify-content: center;
+      padding: 0;
+      overflow: visible;
+      color: var(--border);
+    }
+    .section-connector svg {
+      height: 48px;
+      width: 24px;
+    }
+
+    /* ═══════════════════════════════════════════
+       STATS ROW
+       ═══════════════════════════════════════════ */
+    .stats-section {
+      padding-bottom: 16px;
+    }
+
+    .stats-grid {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 24px 32px;
+      border-top: 1px solid var(--border);
+      border-bottom: 1px solid var(--border);
+      padding: 32px 0;
+      position: relative;
+    }
+
+    .stat-item { position: relative; }
+
+    .stat-value {
+      font-size: clamp(28px, 4vw, 36px);
+      font-weight: 600;
+      letter-spacing: -0.03em;
+      color: var(--fg);
+      line-height: 1;
+    }
+
+    .stat-label {
+      margin-top: 8px;
+      font-size: 14px;
+      color: var(--muted);
+      line-height: 1.4;
+    }
+
+    /* Sparkle next to stats */
+    .stat-sparkle {
+      position: absolute;
+      top: -4px;
+      right: 0;
+      font-size: 12px;
+      color: var(--accent);
+      opacity: 0;
+      animation: sparkleIn 0.6s ease forwards;
+      animation-play-state: paused;
+    }
+    .stat-item.counted .stat-sparkle {
+      animation-play-state: running;
+    }
+
+    @keyframes sparkleIn {
+      0% { opacity: 0; transform: scale(0) rotate(-30deg); }
+      50% { opacity: 1; transform: scale(1.3) rotate(10deg); }
+      100% { opacity: 0.7; transform: scale(1) rotate(0deg); }
+    }
+
+    /* Stats annotation */
+    .stats-annotation {
+      position: absolute;
+      bottom: -30px;
+      right: 0;
+      display: flex;
+      align-items: center;
+      gap: 4px;
+      color: var(--accent);
+    }
+    .stats-annotation span {
+      font-family: var(--font-hand);
+      font-size: 17px;
+      font-weight: 600;
+      color: var(--accent);
+    }
+    .stats-annotation svg {
+      width: 32px;
+      height: 28px;
+      flex-shrink: 0;
+      color: var(--accent);
+    }
+
+    /* ═══════════════════════════════════════════
+       BENTO GRID — About Me
+       ═══════════════════════════════════════════ */
+    .bento-section {
+      padding: 64px 0;
+    }
+
+    .section-label {
+      font-family: var(--font-mono);
+      font-size: 11px;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      color: var(--faint);
+      margin-bottom: 8px;
+    }
+
+    .section-title {
+      font-size: clamp(22px, 3.5vw, 28px);
+      font-weight: 600;
+      letter-spacing: -0.025em;
+      color: var(--fg);
+      margin-bottom: 32px;
+      position: relative;
+      display: inline-block;
+    }
+
+    /* Section title annotation */
+    .section-title-annotation {
+      display: inline-flex;
+      align-items: flex-start;
+      gap: 3px;
+      color: var(--accent);
+      margin-left: 12px;
+      vertical-align: top;
+      position: relative;
+      top: -8px;
+    }
+    .section-title-annotation span {
+      font-family: var(--font-hand);
+      font-size: 17px;
+      font-weight: 600;
+      color: var(--accent);
+    }
+    .section-title-annotation svg {
+      width: 28px;
+      height: 24px;
+      flex-shrink: 0;
+      color: var(--accent);
+    }
+
+    /* ═══════════════════════════════════════════
+       THE SHORT VERSION — Border-driven design (NO GRADIENTS)
+       ═══════════════════════════════════════════ */
+    .bento-grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      grid-template-rows: auto auto;
+      gap: 16px;
+    }
+
+    .bento-card {
+      background: transparent;
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 28px;
+      transition: border-color 0.25s ease, background 0.25s ease;
+      position: relative;
+      overflow: hidden;
+    }
+    .bento-card:hover {
+      border-color: var(--accent);
+      background: var(--surface);
+    }
+
+    .bento-card.span-2 { grid-column: span 2; }
+
+    /* Minimal text icon indicator */
+    .bento-icon-tag {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 18px;
+      margin-bottom: 16px;
+    }
+
+    .bento-card-label {
+      font-family: var(--font-mono);
+      font-size: 11px;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      color: var(--faint);
+      margin-bottom: 6px;
+    }
+
+    .bento-card-value {
+      font-size: 19px;
+      font-weight: 600;
+      color: var(--fg);
+      letter-spacing: -0.01em;
+      line-height: 1.3;
+    }
+
+    .bento-card-desc {
+      font-size: 14px;
+      color: var(--muted);
+      margin-top: 8px;
+      line-height: 1.6;
+    }
+
+    /* Cute handwritten annotation on hover */
+    .bento-fun-fact {
+      margin-top: 14px;
+      font-family: var(--font-hand);
+      font-size: 17px;
+      font-weight: 600;
+      color: var(--accent);
+      opacity: 0;
+      transform: translateY(6px);
+      transition: opacity 0.3s ease, transform 0.3s ease;
+    }
+    .bento-card:hover .bento-fun-fact {
+      opacity: 1;
+      transform: translateY(0);
+    }
+
+    /* ═══════════════════════════════════════════
+       QUOTE BANNER — Clean Border & Typewriter style (NO GRADIENTS)
+       ═══════════════════════════════════════════ */
+    .quote-section {
+      padding: 40px 0;
+      position: relative;
+    }
+    .quote-inner {
+      position: relative;
+      text-align: center;
+      padding: 40px 24px;
+      border-radius: var(--radius);
+      border: 1px dashed var(--border);
+      background: transparent;
+      transition: border-color 0.3s ease;
+    }
+    .quote-inner:hover {
+      border-color: var(--accent);
+    }
+    .quote-text {
+      font-family: var(--font-mono);
+      font-size: clamp(17px, 2.5vw, 22px);
+      font-weight: 500;
+      letter-spacing: -0.01em;
+      color: var(--fg);
+      line-height: 1.6;
+    }
+    .quote-text .quote-highlight {
+      color: var(--accent);
+      font-weight: 600;
+    }
+    .quote-cursor {
+      display: inline-block;
+      width: 2px;
+      height: 1.1em;
+      background: var(--accent);
+      margin-left: 4px;
+      vertical-align: text-bottom;
+      animation: cursorBlink 1s step-end infinite;
+    }
+    @keyframes cursorBlink { 0%,100% { opacity: 1; } 50% { opacity: 0; } }
+    .quote-attribution {
+      margin-top: 14px;
+      font-family: var(--font-hand);
+      font-size: 19px;
+      font-weight: 600;
+      color: var(--accent);
+    }
+
+    /* ═══════════════════════════════════════════
+       EXPERIENCE SECTION
+       ═══════════════════════════════════════════ */
+    .experience-section {
+      padding: 64px 0;
+    }
+
+    .experience-list {
+      list-style: none;
+      position: relative;
+    }
+
+    /* Timeline line */
+    .experience-list::before {
+      content: '';
+      position: absolute;
+      left: 33px;
+      top: 20px;
+      bottom: 20px;
+      width: 1px;
+      background: var(--border);
+    }
+
+    .exp-item {
+      position: relative;
+    }
+
+    .exp-header {
+      display: flex;
+      align-items: center;
+      gap: 16px;
+      padding: 10px 12px;
+      border-radius: var(--radius-sm);
+      cursor: pointer;
+      transition: background 0.2s ease;
+      width: 100%;
+      background: none;
+      border: none;
+      color: inherit;
+      font: inherit;
+      text-align: left;
+    }
+    .exp-header:hover { background: var(--surface); }
+
+    .exp-logo {
+      width: 44px; height: 44px;
+      border-radius: var(--radius-sm);
+      border: 1px solid var(--border);
+      background: var(--surface);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 18px;
+      flex-shrink: 0;
+      position: relative;
+      overflow: hidden;
+      transition: border-color 0.2s ease, box-shadow 0.2s ease;
+    }
+
+    .exp-item.open .exp-logo,
+    .exp-header:hover .exp-logo {
+      border-color: var(--accent);
+      box-shadow: 0 0 0 3px var(--accent-soft);
+    }
+
+    .exp-current-dot {
+      position: absolute;
+      top: -2px; right: -2px;
+      width: 10px; height: 10px;
+      border-radius: 50%;
+      background: #22c55e;
+      border: 2px solid var(--bg);
+    }
+
+    .exp-info { flex: 1; min-width: 0; }
+
+    .exp-company {
+      font-weight: 600;
+      font-size: 15px;
+      color: var(--fg);
+      line-height: 1.3;
+    }
+
+    .exp-role {
+      font-size: 14px;
+      color: var(--muted);
+    }
+
+    .exp-dates {
+      font-family: var(--font-mono);
+      font-size: 11px;
+      color: var(--faint);
+      flex-shrink: 0;
+      white-space: nowrap;
+    }
+
+    .exp-chevron {
+      width: 16px; height: 16px;
+      color: var(--faint);
+      flex-shrink: 0;
+      transition: transform 0.3s cubic-bezier(.34,1.56,.64,1), opacity 0.15s ease;
+      opacity: 0;
+    }
+    .exp-header:hover .exp-chevron { opacity: 1; }
+    .exp-item.open .exp-chevron { transform: rotate(180deg); opacity: 1; }
+
+    .exp-details {
+      max-height: 0;
+      overflow: hidden;
+      transition: max-height 0.35s ease, opacity 0.25s ease;
+      opacity: 0;
+    }
+    .exp-item.open .exp-details {
+      opacity: 1;
+    }
+
+    .exp-details-inner {
+      padding: 4px 12px 12px 72px;
+    }
+
+    .exp-desc {
+      font-size: 14px;
+      color: var(--muted);
+      line-height: 1.65;
+      margin-bottom: 8px;
+    }
+
+    .exp-bullet {
+      display: flex;
+      gap: 8px;
+      font-size: 14px;
+      color: var(--muted);
+      line-height: 1.6;
+      margin-bottom: 4px;
+    }
+    .exp-bullet-icon {
+      color: var(--accent);
+      flex-shrink: 0;
+      margin-top: 3px;
+    }
+
+    .exp-dates-mobile {
+      display: none;
+      font-family: var(--font-mono);
+      font-size: 11px;
+      color: var(--faint);
+      margin-top: 6px;
+    }
+
+    /* ═══════════════════════════════════════════
+       EXPERTISE SECTION
+       ═══════════════════════════════════════════ */
+    .expertise-section {
+      padding: 64px 0;
+    }
+
+    .expertise-grid {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 32px;
+    }
+
+    .expertise-group {
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+    }
+
+    .expertise-group-title {
+      font-family: var(--font-mono);
+      font-size: 11px;
+      font-weight: 600;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      color: var(--faint);
+      padding-bottom: 10px;
+      border-bottom: 1px solid var(--border);
+    }
+
+    .expertise-pills {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px;
+    }
+
+    .expertise-pill {
+      font-size: 13px;
+      font-weight: 500;
+      color: var(--fg);
+      padding: 6px 14px;
+      border: 1px solid var(--border);
+      border-radius: var(--radius-full);
+      background: var(--card-bg);
+      transition: border-color 0.25s ease, background 0.25s ease, transform 0.2s cubic-bezier(.34,1.56,.64,1), box-shadow 0.25s ease;
+      cursor: default;
+    }
+    .expertise-pill:hover {
+      border-color: var(--accent);
+      background: var(--accent-soft);
+      transform: translateY(-2px);
+    }
+
+    /* ═══════════════════════════════════════════
+       CONNECT SECTION
+       ═══════════════════════════════════════════ */
+    .connect-section {
+      padding: 64px 0 80px;
+    }
+
+    .connect-grid {
+      display: flex;
+      flex-direction: column;
+      gap: 0;
+    }
+
+    .connect-link {
+      display: flex;
+      align-items: center;
+      gap: 16px;
+      padding: 16px 4px;
+      border-bottom: 1px solid var(--border);
+      transition: background 0.2s ease, padding-left 0.25s cubic-bezier(.34,1.56,.64,1);
+    }
+    .connect-link:first-child { border-top: 1px solid var(--border); }
+    .connect-link:hover { background: var(--surface); padding-left: 16px; }
+
+    .connect-icon {
+      width: 40px; height: 40px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      border-radius: var(--radius-sm);
+      background: var(--surface);
+      border: 1px solid var(--border);
+      flex-shrink: 0;
+      transition: border-color 0.2s ease;
+    }
+    .connect-link:hover .connect-icon {
+      border-color: var(--accent);
+    }
+    .connect-icon svg {
+      width: 18px; height: 18px;
+      color: var(--muted);
+    }
+
+    .connect-info { flex: 1; min-width: 0; }
+
+    .connect-label {
+      font-weight: 600;
+      font-size: 15px;
+      color: var(--fg);
+    }
+
+    .connect-handle {
+      font-size: 13px;
+      color: var(--muted);
+      word-break: break-all;
+    }
+
+    .connect-arrow {
+      color: var(--faint);
+      font-size: 18px;
+      transition: transform 0.3s cubic-bezier(.34,1.56,.64,1), color 0.2s ease;
+      flex-shrink: 0;
+    }
+    .connect-link:hover .connect-arrow {
+      transform: translate(4px, -4px);
+      color: var(--accent);
+    }
+
+    .connect-annotation {
+      display: flex;
+      align-items: flex-start;
+      gap: 4px;
+      color: var(--accent);
+      margin-top: 16px;
+      justify-content: flex-end;
+    }
+    .connect-annotation span {
+      font-family: var(--font-hand);
+      font-size: 20px;
+      font-weight: 600;
+      color: var(--accent);
+    }
+    .connect-annotation svg {
+      width: 44px; height: 40px;
+      flex-shrink: 0;
+      margin-top: 6px;
+      color: var(--accent);
+    }
+
+    /* ═══════════════════════════════════════════
+       FOOTER
+       ═══════════════════════════════════════════ */
+    footer {
+      border-top: 1px solid var(--border);
+      padding: 32px 0;
+    }
+
+    .footer-inner {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+
+    .footer-copy {
+      font-size: 13px;
+      color: var(--faint);
+    }
+
+    .footer-signoff {
+      font-family: var(--font-hand);
+      font-size: 17px;
+      color: var(--faint);
+    }
+
+    .footer-links {
+      display: flex;
+      gap: 20px;
+    }
+    .footer-links a {
+      font-size: 13px;
+      color: var(--faint);
+      transition: color 0.2s ease;
+    }
+    .footer-links a:hover { color: var(--fg); }
+
+    /* ═══════════════════════════════════════════
+       SCROLL-TRIGGERED ANIMATION
+       ═══════════════════════════════════════════ */
+    .reveal {
+      opacity: 0;
+      transform: translateY(16px);
+      transition: opacity 0.6s ease, transform 0.6s ease;
+    }
+    .reveal.visible {
+      opacity: 1;
+      transform: translateY(0);
+    }
+
+    /* Staggered children animation */
+    .reveal-stagger > .reveal {
+      transition-delay: calc(var(--i, 0) * 0.08s);
+    }
+
+    /* ═══════════════════════════════════════════
+       RESPONSIVE — Mobile-Native Experience
+       ═══════════════════════════════════════════ */
+    @media (max-width: 768px) {
+      /* ── Nav ── */
+      .navbar .nav-links-desktop,
+      .navbar .nav-sep,
+      .navbar .theme-toggle { display: none; }
+
+      .mobile-nav { display: block; }
+      .mobile-nav .theme-toggle { display: flex; }
+
+      /* ── Hero — App-like centered layout ── */
+      .hero { padding: 32px 0 40px; }
+      .hero-content {
+        grid-template-columns: 1fr;
+        gap: 24px;
+        text-align: center;
+      }
+      .hero-text { align-items: center; }
+      .hero-photo-wrap { order: -1; }
+      .hero-photo { width: 140px; height: 140px; }
+      .photo-glow { width: 160px; height: 160px; }
+
+      /* Show greeting but smaller on mobile */
+      .hero-greeting-annotation {
+        justify-content: center;
+        margin-bottom: 6px;
+      }
+      .hero-greeting-annotation span { font-size: 18px; }
+      .hero-greeting-annotation svg { width: 28px; height: 18px; }
+
+      /* Name sizing for mobile */
+      .hero-name {
+        font-size: clamp(36px, 10vw, 52px);
+        margin-bottom: 8px;
+      }
+
+      /* "works @ RBBL" — mobile badge under name */
+      .hero-name-annotation {
+        position: relative;
+        top: auto;
+        right: auto;
+        display: inline-flex;
+        align-items: center;
+        gap: 6px;
+        justify-content: center;
+        margin-top: 4px;
+        pointer-events: auto;
+      }
+      .hero-name-annotation svg { display: none; }
+      .hero-name-annotation span {
+        font-size: 16px;
+        background: var(--accent-soft);
+        border: 1px solid var(--accent);
+        padding: 4px 14px;
+        border-radius: var(--radius-full);
+        opacity: 0.9;
+      }
+
+      /* Photo annotations — hide on mobile */
+      .hero-photo-annotation { display: none; }
+
+      /* Subtitle — full-width, natural reading */
+      .hero-subtitle {
+        max-width: 100%;
+        font-size: 16px;
+        line-height: 1.6;
+        margin-top: 8px;
+      }
+
+      .hero-meta {
+        font-size: 12px;
+        margin-top: 10px;
+        margin-bottom: 24px;
+      }
+
+      /* CTA row — stacked on mobile for big touch targets */
+      .hero-cta {
+        flex-direction: column;
+        align-items: center;
+        gap: 12px;
+        margin-bottom: 32px;
+      }
+      .hero-annotation { display: none !important; }
+      .btn-primary {
+        height: 48px;
+        padding: 0 32px;
+        font-size: 15px;
+        width: 100%;
+        max-width: 280px;
+        justify-content: center;
+      }
+      .hero-email { font-size: 13px; }
+
+      /* Stack row — centered, touch-friendly */
+      .stack-row {
+        justify-content: center;
+        gap: 6px;
+      }
+      .stack-label { font-size: 17px; }
+      .stack-icon {
+        width: 36px; height: 36px;
+        font-size: 12px;
+      }
+
+      /* ── Stats — 2 col, compact ── */
+      .stats-grid {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 20px 24px;
+        padding: 24px 0;
+      }
+      .stats-annotation { display: none; }
+      .stat-value { font-size: 26px; }
+      .stat-label { font-size: 13px; margin-top: 4px; }
+
+      /* ── Bento — single col, touch-friendly cards ── */
+      .bento-section { padding: 48px 0; }
+      .bento-grid {
+        grid-template-columns: 1fr;
+        gap: 12px;
+      }
+      .bento-card.span-2 { grid-column: span 1; }
+      .bento-card {
+        padding: 22px 20px;
+      }
+      .bento-card-value { font-size: 17px; }
+      .bento-card-desc { font-size: 13px; }
+      /* Show fun facts on mobile (no hover on touch) */
+      .bento-fun-fact {
+        opacity: 1;
+        transform: translateY(0);
+        font-size: 15px;
+        margin-top: 10px;
+      }
+
+      /* ── Quote ── */
+      .quote-inner { padding: 28px 16px; }
+      .quote-text { font-size: 16px; }
+
+      /* ── Experience — compact timeline ── */
+      .experience-section { padding: 48px 0; }
+      .exp-dates { display: none; }
+      .exp-dates-mobile { display: block; }
+      .experience-list::before { left: 29px; }
+      .exp-header { padding: 10px 8px; gap: 12px; }
+      .exp-logo { width: 40px; height: 40px; font-size: 16px; }
+      .exp-company { font-size: 14px; }
+      .exp-role { font-size: 13px; }
+      .exp-details-inner { padding: 4px 8px 12px 60px; }
+      .exp-desc { font-size: 13px; }
+      .exp-bullet { font-size: 13px; }
+      .exp-chevron { opacity: 1; } /* Always visible on mobile */
+
+      /* ── Expertise — single col, scrollable pills ── */
+      .expertise-section { padding: 48px 0; }
+      .expertise-grid {
+        grid-template-columns: 1fr;
+        gap: 24px;
+      }
+      .expertise-pill {
+        font-size: 12px;
+        padding: 5px 12px;
+      }
+
+      /* ── Connect — touch list ── */
+      .connect-section { padding: 48px 0 80px; }
+      .connect-link { padding: 14px 4px; gap: 12px; }
+      .connect-annotation { display: none; }
+      .connect-arrow { opacity: 1; }
+      .connect-label { font-size: 14px; }
+      .connect-handle { font-size: 12px; }
+      .connect-icon { width: 38px; height: 38px; }
+      .connect-icon svg { width: 16px; height: 16px; }
+
+      /* ── Section titles ── */
+      .section-title { margin-bottom: 24px; }
+      .section-title-annotation { display: none; }
+      .section-label { font-size: 10px; margin-bottom: 6px; }
+
+      /* ── Footer ── */
+      .footer-inner {
+        flex-direction: column;
+        text-align: center;
+        gap: 8px;
+      }
+      footer { padding: 24px 0; }
+      .footer-links { gap: 16px; }
+      .footer-links a { font-size: 12px; }
+
+      /* ── Spacing for bottom nav ── */
+      body {
+        padding-bottom: 80px;
+        /* iOS safe area */
+        padding-bottom: calc(80px + env(safe-area-inset-bottom, 0px));
+      }
+
+      /* ── Section connectors ── */
+      .section-connector { display: none; }
+
+      /* ── Touch active states (replace hover on mobile) ── */
+      .bento-card:active {
+        border-color: var(--accent);
+        background: var(--surface);
+        transform: scale(0.98);
+        transition: transform 0.1s ease;
+      }
+      .connect-link:active {
+        background: var(--surface);
+        padding-left: 12px;
+      }
+      .expertise-pill:active {
+        border-color: var(--accent);
+        background: var(--accent-soft);
+        transform: scale(0.96);
+      }
+      .stack-icon:active {
+        transform: scale(0.9);
+        border-color: var(--accent);
+        color: var(--accent);
+      }
+
+      /* ── Container tighter padding ── */
+      .container { padding: 0 20px; }
+    }
+
+    @media (min-width: 769px) {
+      .hero-annotation { display: inline-flex; }
+    }
+
+    /* ── Ultra-compact for small phones ── */
+    @media (max-width: 480px) {
+      .container { padding: 0 16px; }
+
+      .hero { padding: 24px 0 32px; }
+      .hero-name { font-size: 34px; }
+      .hero-photo { width: 120px; height: 120px; }
+      .photo-glow { width: 140px; height: 140px; }
+      .hero-subtitle { font-size: 15px; }
+      .hero-meta { margin-bottom: 20px; }
+      .hero-name-annotation span { font-size: 14px; padding: 3px 12px; }
+
+      .stats-grid { gap: 14px 16px; }
+      .stat-value { font-size: 22px; }
+      .stat-label { font-size: 12px; }
+
+      .bento-card { padding: 18px 16px; }
+      .bento-card-value { font-size: 16px; }
+
+      .section-title { font-size: 20px; }
+
+      .quote-inner { padding: 20px 14px; }
+      .quote-text { font-size: 14px; }
+
+      .exp-header { padding: 8px 4px; }
+      .exp-details-inner { padding: 4px 4px 12px 52px; }
+
+      .expertise-pill { font-size: 11px; padding: 4px 10px; }
+
+      .connect-link { padding: 12px 2px; }
+
+      /* Mobile nav — more compact */
+      .mobile-nav {
+        bottom: 12px;
+        padding: 5px 6px;
+      }
+      .mobile-nav a { padding: 7px 10px; font-size: 12px; }
+
+      .footer-copy { font-size: 12px; }
+      .footer-signoff { font-size: 15px; }
+    }
+
+    /* ── Extra small phones (iPhone SE, etc.) ── */
+    @media (max-width: 375px) {
+      .container { padding: 0 14px; }
+      .hero-name { font-size: 30px; }
+      .hero-photo { width: 110px; height: 110px; }
+      .hero-subtitle { font-size: 14px; }
+      .btn-primary { height: 44px; font-size: 14px; }
+      .stack-icon { width: 32px; height: 32px; font-size: 11px; }
+      .mobile-nav a { padding: 6px 8px; font-size: 11px; }
+      .stat-value { font-size: 20px; }
+      .bento-card-value { font-size: 15px; }
+    }
+
+    /* ═══════════════════════════════════════════
+       PRINT STYLES
+       ═══════════════════════════════════════════ */
+    @media print {
+      .navbar, .mobile-nav, #scroll-progress, .hero-orbs, .marquee-section,
+      .theme-toggle, body::before, .photo-doodles, .section-connector,
+      .draw-arrow { display: none !important; }
+      body { background: #fff; color: #000; }
+      .hero-photo { border-color: #ddd; }
+    }
+  </style>
+</head>
+
+<body>
+  <!-- Scroll Progress -->
+  <div id="scroll-progress" aria-hidden="true" style="width: 100.013%;"></div>
+
+  <!-- ═══════════ NAVBAR ═══════════ -->
+  <header class="navbar" role="banner">
+    <nav class="navbar-inner" aria-label="Primary navigation">
+      <a href="/" class="nav-name">shailesh</a>
+      <div class="nav-links-desktop">
+        <a href="#about">about</a>
+        <a href="#experience">experience</a>
+        <a href="#expertise">expertise</a>
+        <a href="#connect">connect</a>
+        <span class="nav-sep" aria-hidden="true"></span>
+        <button class="theme-toggle" id="themeToggle" type="button" aria-label="toggle dark mode">
+          <svg class="icon-sun" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round">
+            <circle cx="12" cy="12" r="4.2"></circle>
+            <path d="M12 2.5v2.4M12 19.1v2.4M2.5 12h2.4M19.1 12h2.4M5 5l1.7 1.7M17.3 17.3 19 19M19 5l-1.7 1.7M6.7 17.3 5 19"></path>
+          </svg>
+          <svg class="icon-moon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round">
+            <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+          </svg>
+        </button>
+      </div>
+    </nav>
+  </header>
+
+  <!-- ═══════════ MOBILE BOTTOM NAV ═══════════ -->
+  <nav class="mobile-nav" aria-label="Mobile navigation">
+    <div class="mobile-nav-inner">
+      <a href="#about">about</a>
+      <a href="#experience">experience</a>
+      <a href="#expertise">expertise</a>
+      <a href="#connect">connect</a>
+      <span class="nav-sep" aria-hidden="true"></span>
+      <button class="theme-toggle" id="themeToggleMobile" type="button" aria-label="toggle dark mode">
+        <svg class="icon-sun" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round">
+          <circle cx="12" cy="12" r="4.2"></circle>
+          <path d="M12 2.5v2.4M12 19.1v2.4M2.5 12h2.4M19.1 12h2.4M5 5l1.7 1.7M17.3 17.3 19 19M19 5l-1.7 1.7M6.7 17.3 5 19"></path>
+        </svg>
+        <svg class="icon-moon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round">
+          <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+        </svg>
+      </button>
+    </div>
+  </nav>
+
+  <!-- ═══════════ MAIN ═══════════ -->
+  <main id="main">
+
+    <!-- ═══════════ HERO ═══════════ -->
+    <section class="hero" aria-label="Introduction">
+      <!-- Animated gradient orbs -->
+      <div class="hero-orbs" aria-hidden="true">
+        <div class="orb orb-1"></div>
+        <div class="orb orb-2"></div>
+        <div class="orb orb-3"></div>
+      </div>
+
+      <div class="container">
+        <div class="hero-content">
+          <div class="hero-text">
+            <!-- Greeting annotation "hello, i'm 👋" pointing to title -->
+            <div class="hero-greeting-annotation rise-in" style="animation-delay: 0.05s" aria-hidden="true">
+              <span>hello, i'm 👋</span>
+              <svg viewBox="0 0 36 24" class="draw-arrow drawn">
+                <path d="M4 6 C 14 6, 24 10, 28 20 M28 20 l -7 -2 M28 20 l -2 -7" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" pathLength="1"></path>
+              </svg>
+            </div>
+
+            <!-- Name with staggered letters — single line -->
+            <h1 class="hero-name" aria-label="shailesh acharya">
+              <span class="word">
+                <span class="letter rise-in" style="animation-delay:0.10s" aria-hidden="true">s</span><span class="letter rise-in" style="animation-delay:0.14s" aria-hidden="true">h</span><span class="letter rise-in" style="animation-delay:0.18s" aria-hidden="true">a</span><span class="letter rise-in" style="animation-delay:0.22s" aria-hidden="true">i</span><span class="letter rise-in" style="animation-delay:0.26s" aria-hidden="true">l</span><span class="letter rise-in" style="animation-delay:0.30s" aria-hidden="true">e</span><span class="letter rise-in" style="animation-delay:0.34s" aria-hidden="true">s</span><span class="letter rise-in" style="animation-delay:0.38s" aria-hidden="true">h</span>
+              </span>
+              <span class="word">
+                <span class="letter rise-in" style="animation-delay:0.44s" aria-hidden="true">a</span><span class="letter rise-in" style="animation-delay:0.48s" aria-hidden="true">c</span><span class="letter rise-in" style="animation-delay:0.52s" aria-hidden="true">h</span><span class="letter rise-in" style="animation-delay:0.56s" aria-hidden="true">a</span><span class="letter rise-in" style="animation-delay:0.60s" aria-hidden="true">r</span><span class="letter rise-in" style="animation-delay:0.64s" aria-hidden="true">y</span><span class="letter rise-in" style="animation-delay:0.68s" aria-hidden="true">a</span>
+              </span>
+              <!-- "works @ RBBL" annotation floating above-right of name -->
+              <span class="hero-name-annotation rise-in" style="animation-delay: 1.3s" aria-hidden="true">
+                <span>works @ RBBL</span>
+                <svg viewBox="0 0 36 36" class="draw-arrow drawn">
+                  <path d="M30 6 C 24 6, 14 10, 8 22 M8 22 l 6 -4 M8 22 l 0 -8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" pathLength="1"></path>
+                </svg>
+              </span>
+            </h1>
+
+            <!-- Subtitle -->
+            <p class="hero-subtitle rise-in" style="animation-delay: 0.5s">
+              IT professional, MSc CSIT graduate &amp; data enthusiast. I bridge banking operations with intelligent data systems.
+            </p>
+
+            <!-- Location + live clock -->
+            <p class="hero-meta rise-in" style="animation-delay: 0.6s">
+              kathmandu, nepal · <span id="nepalClock">10:43 pm npt</span>
+            </p>
+
+            <!-- CTA -->
+            <div class="hero-cta rise-in" style="animation-delay: 0.72s">
+              <span class="btn-magnetic">
+                <a href="mailto:acharyashailesh8@gmail.com" class="btn-primary">say hello 👋</a>
+              </span>
+              <a href="mailto:acharyashailesh8@gmail.com" class="hero-email">acharyashailesh8@gmail.com</a>
+              <span class="hero-annotation">
+                <span>i actually reply</span>
+                <svg viewBox="0 0 64 56" class="draw-arrow drawn" aria-hidden="true">
+                  <path d="M58 6 C 54 30, 30 34, 12 46 M12 46 l 10 -2 M12 46 l 1 -10" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" pathLength="1"></path>
+                </svg>
+              </span>
+            </div>
+
+            <!-- Stack -->
+            <div class="stack-row rise-in" style="animation-delay: 0.85s">
+              <span class="stack-label">my stack</span>
+              <span class="stack-icon" title="Python">Py</span>
+              <span class="stack-icon" title="SQL">SQL</span>
+              <span class="stack-icon" title="Linux">🐧</span>
+              <span class="stack-icon" title="AWS">☁</span>
+              <span class="stack-icon" title="Pandas">📊</span>
+              <span class="stack-icon" title="Git">Git</span>
+              <span class="stack-icon" title="scikit-learn">sk</span>
+            </div>
+          </div>
+
+          <!-- Photo -->
+          <div class="hero-photo-wrap rise-in" style="animation-delay: 0.4s">
+            <!-- Floating doodles -->
+            <div class="photo-doodles" aria-hidden="true">
+              <span class="doodle doodle-star">✦</span>
+              <span class="doodle doodle-dot"></span>
+              <span class="doodle doodle-circle"></span>
+              <span class="doodle doodle-plus">+</span>
+              <svg class="doodle doodle-squiggle" width="20" height="10" viewBox="0 0 20 10">
+                <path d="M1 5 Q 5 1, 10 5 Q 15 9, 19 5" fill="none" stroke="currentColor" stroke-width="1.2" stroke-linecap="round"></path>
+              </svg>
+            </div>
+            <!-- Photo annotation 1 "that's me ↙" -->
+            <div class="hero-photo-annotation hero-photo-annotation--me rise-in" style="animation-delay: 1.1s" aria-hidden="true">
+              <svg viewBox="0 0 36 36" class="draw-arrow drawn">
+                <path d="M4 8 C 16 6, 26 12, 28 28 M28 28 l -7 -2 M28 28 l -2 -7" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" pathLength="1"></path>
+              </svg>
+              <span>that's me</span>
+            </div>
+            <div class="hero-photo">
+              <picture>
+                <source srcset="profile.webp" type="image/webp">
+                <img src="profile.jpg" alt="Shailesh Acharya — Senior Assistant IT at Rastriya Banijya Bank" width="200" height="200" fetchpriority="high" decoding="async">
+              </picture>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Section connector -->
+    <div class="section-connector" aria-hidden="true">
+      <svg viewBox="0 0 24 48" fill="none">
+        <path d="M12 0 Q 8 12, 12 24 Q 16 36, 12 48" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-dasharray="3 4"></path>
+      </svg>
+    </div>
+
+    <!-- ═══════════ STATS ═══════════ -->
+    <section class="stats-section" aria-label="Key stats">
+      <div class="container">
+        <div class="stats-grid reveal visible">
+          <div class="stat-item counted">
+            <span class="stat-sparkle" aria-hidden="true">✦</span>
+            <div class="stat-value" data-count="5" data-suffix="+">5+</div>
+            <div class="stat-label">years in banking &amp; IT</div>
+          </div>
+          <div class="stat-item">
+            <span class="stat-sparkle" aria-hidden="true">✦</span>
+            <div class="stat-value" data-text="MSc">MSc</div>
+            <div class="stat-label">CSIT graduate · TU</div>
+          </div>
+          <div class="stat-item">
+            <span class="stat-sparkle" aria-hidden="true">✦</span>
+            <div class="stat-value" data-text="RBBL">RBBL</div>
+            <div class="stat-label">nepal's largest govt. bank</div>
+          </div>
+          <div class="stat-item counted">
+            <span class="stat-sparkle" aria-hidden="true">✦</span>
+            <div class="stat-value" data-count="100" data-suffix="+">100+</div>
+            <div class="stat-label">bank branches supported</div>
+          </div>
+          <!-- Stats annotation -->
+          <div class="stats-annotation" aria-hidden="true">
+            <span>pretty cool, right?</span>
+            <svg viewBox="0 0 40 32" class="draw-arrow drawn">
+              <path d="M4 28 C 8 12, 20 8, 36 6 M36 6 l -8 1 M36 6 l -3 7" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" pathLength="1"></path>
+            </svg>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Section connector -->
+    <div class="section-connector" aria-hidden="true">
+      <svg viewBox="0 0 24 48" fill="none">
+        <path d="M12 0 Q 16 12, 12 24 Q 8 36, 12 48" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-dasharray="3 4"></path>
+      </svg>
+    </div>
+
+    <!-- ═══════════ BENTO ABOUT ═══════════ -->
+    <section id="about" class="bento-section" aria-label="About me">
+      <div class="container">
+        <p class="section-label reveal visible">about</p>
+        <h2 class="section-title reveal visible">
+          the short version
+          <span class="section-title-annotation" aria-hidden="true">
+            <svg viewBox="0 0 36 30" class="draw-arrow drawn">
+              <path d="M32 4 C 24 8, 16 6, 4 14 M4 14 l 7 -5 M4 14 l 8 2" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" pathLength="1"></path>
+            </svg>
+            <span>psst — keep reading</span>
+          </span>
+        </h2>
+
+        <div class="bento-grid reveal-stagger">
+          <!-- Item 1: Current Role (spans 2) -->
+          <div class="bento-card span-2 reveal visible" style="--i: 0">
+            <div class="bento-icon-tag">💼</div>
+            <div class="bento-card-label">current role</div>
+            <div class="bento-card-value">Senior Assistant IT @ RBBL</div>
+            <div class="bento-card-desc">Managing IT infrastructure, database systems, and digital workflows across Nepal's largest government bank — ensuring reliable, secure banking operations nationwide.</div>
+            <div class="bento-fun-fact">☕ fun fact: I've rebooted more servers than I can count</div>
+          </div>
+
+          <!-- Item 2: Location -->
+          <div class="bento-card reveal visible" style="--i: 1">
+            <div class="bento-icon-tag">📍</div>
+            <div class="bento-card-label">based in</div>
+            <div class="bento-card-value">Kathmandu, Nepal</div>
+            <div class="bento-card-desc">The heart of the Himalayas.</div>
+            <div class="bento-fun-fact">🏔️ yes, I can see mountains from here</div>
+          </div>
+
+          <!-- Item 3: Education -->
+          <div class="bento-card reveal visible" style="--i: 2">
+            <div class="bento-icon-tag">🎓</div>
+            <div class="bento-card-label">education</div>
+            <div class="bento-card-value">MSc CSIT</div>
+            <div class="bento-card-desc">Tribhuvan University — advanced data systems, AI/ML research, computing algorithms.</div>
+          </div>
+
+          <!-- Item 4: Passion (spans 2) -->
+          <div class="bento-card span-2 reveal visible" style="--i: 3">
+            <div class="bento-icon-tag">🧠</div>
+            <div class="bento-card-label">what drives me</div>
+            <div class="bento-card-value">AI, Machine Learning &amp; Data Intelligence</div>
+            <div class="bento-card-desc">Passionate about applying research methodologies to real-world financial operations — transforming raw data into actionable intelligence. From predictive models to analytics pipelines.</div>
+            <div class="bento-fun-fact">🤖 currently training models on banking data</div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Section connector -->
+    <div class="section-connector" aria-hidden="true">
+      <svg viewBox="0 0 24 48" fill="none">
+        <path d="M12 0 Q 8 12, 12 24 Q 16 36, 12 48" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-dasharray="3 4"></path>
+      </svg>
+    </div>
+
+    <!-- ═══════════ EXPERIENCE ═══════════ -->
+    <section id="experience" class="experience-section" aria-label="Experience and education">
+      <div class="container">
+        <p class="section-label reveal visible">experience</p>
+        <h2 class="section-title reveal visible">
+          the path so far
+          <span class="section-title-annotation" aria-hidden="true">
+            <span>the journey ✨</span>
+            <svg viewBox="0 0 36 30" class="draw-arrow drawn">
+              <path d="M4 4 C 12 10, 22 8, 32 16 M32 16 l -8 -3 M32 16 l -5 6" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" pathLength="1"></path>
+            </svg>
+          </span>
+        </h2>
+
+        <ol class="experience-list reveal visible" role="list">
+          <!-- 1. RBBL -->
+          <li class="exp-item open">
+            <button class="exp-header" aria-expanded="true" type="button">
+              <span class="exp-logo">
+                🏦
+                <span class="exp-current-dot" title="Current position"></span>
+              </span>
+              <span class="exp-info">
+                <span class="exp-company">Rastriya Banijya Bank (RBBL)</span>
+                <span class="exp-role">Senior Assistant IT</span>
+              </span>
+              <span class="exp-dates">2025 – present</span>
+              <svg class="exp-chevron" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"><path d="m4 6 4 4 4-4"></path></svg>
+            </button>
+            <div class="exp-details" style="max-height: 200px; opacity: 1;">
+              <div class="exp-details-inner">
+                <p class="exp-desc">Overseeing IT infrastructure, system reliability, and digital workflows across nationwide branch networks at Nepal's largest government bank.</p>
+                <div class="exp-bullet">
+                  <svg class="exp-bullet-icon" width="12" height="12" viewBox="0 0 12 12" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linecap="round"><path d="M6 1.5v9M2.1 3.75l7.8 4.5M9.9 3.75l-7.8 4.5"></path></svg>
+                  <span>Core banking system administration and workflow automation.</span>
+                </div>
+                <div class="exp-bullet">
+                  <svg class="exp-bullet-icon" width="12" height="12" viewBox="0 0 12 12" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linecap="round"><path d="M6 1.5v9M2.1 3.75l7.8 4.5M9.9 3.75l-7.8 4.5"></path></svg>
+                  <span>Database management and network security across branches.</span>
+                </div>
+                <p class="exp-dates-mobile">2025 – present</p>
+              </div>
+            </div>
+          </li>
+
+          <!-- 2. MSc CSIT -->
+          <li class="exp-item">
+            <button class="exp-header" aria-expanded="false" type="button">
+              <span class="exp-logo">🏫</span>
+              <span class="exp-info">
+                <span class="exp-company">Tribhuvan University (CDCSIT)</span>
+                <span class="exp-role">MSc CSIT</span>
+              </span>
+              <span class="exp-dates">2022 – 2026</span>
+              <svg class="exp-chevron" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"><path d="m4 6 4 4 4-4"></path></svg>
+            </button>
+            <div class="exp-details">
+              <div class="exp-details-inner">
+                <p class="exp-desc">Master of Science in Computer Science &amp; IT — specializing in advanced data systems, AI/ML research, and computing algorithms.</p>
+                <div class="exp-bullet">
+                  <svg class="exp-bullet-icon" width="12" height="12" viewBox="0 0 12 12" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linecap="round"><path d="M6 1.5v9M2.1 3.75l7.8 4.5M9.9 3.75l-7.8 4.5"></path></svg>
+                  <span>Thesis research in predictive ML models for real-world datasets.</span>
+                </div>
+                <p class="exp-dates-mobile">2022 – 2026</p>
+              </div>
+            </div>
+          </li>
+
+          <!-- 3. AI/ML Foundations -->
+          <li class="exp-item">
+            <button class="exp-header" aria-expanded="false" type="button">
+              <span class="exp-logo">🤖</span>
+              <span class="exp-info">
+                <span class="exp-company">AI &amp; ML Foundations</span>
+                <span class="exp-role">self-directed learning</span>
+              </span>
+              <span class="exp-dates">2022</span>
+              <svg class="exp-chevron" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"><path d="m4 6 4 4 4-4"></path></svg>
+            </button>
+            <div class="exp-details">
+              <div class="exp-details-inner">
+                <p class="exp-desc">Deep dive into machine learning fundamentals, data pipelines, model building, and practical Python implementations.</p>
+                <p class="exp-dates-mobile">2022</p>
+              </div>
+            </div>
+          </li>
+
+          <!-- 4. WorldLink -->
+          <li class="exp-item">
+            <button class="exp-header" aria-expanded="false" type="button">
+              <span class="exp-logo">🌐</span>
+              <span class="exp-info">
+                <span class="exp-company">WorldLink Communications</span>
+                <span class="exp-role">support intern</span>
+              </span>
+              <span class="exp-dates">2019 – 2021</span>
+              <svg class="exp-chevron" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"><path d="m4 6 4 4 4-4"></path></svg>
+            </button>
+            <div class="exp-details">
+              <div class="exp-details-inner">
+                <p class="exp-desc">Technical support and IT operations — gaining hands-on practical experience in network infrastructure.</p>
+                <p class="exp-dates-mobile">2019 – 2021</p>
+              </div>
+            </div>
+          </li>
+
+          <!-- 5. BSc CSIT -->
+          <li class="exp-item">
+            <button class="exp-header" aria-expanded="false" type="button">
+              <span class="exp-logo">🏫</span>
+              <span class="exp-info">
+                <span class="exp-company">Tribhuvan University (BMC)</span>
+                <span class="exp-role">BSc CSIT</span>
+              </span>
+              <span class="exp-dates">2016 – 2019</span>
+              <svg class="exp-chevron" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"><path d="m4 6 4 4 4-4"></path></svg>
+            </button>
+            <div class="exp-details">
+              <div class="exp-details-inner">
+                <p class="exp-desc">Bachelor of Science in Computer Science &amp; IT — building strong core software engineering foundations.</p>
+                <p class="exp-dates-mobile">2016 – 2019</p>
+              </div>
+            </div>
+          </li>
+        </ol>
+      </div>
+    </section>
+
+    <!-- Section connector -->
+    <div class="section-connector" aria-hidden="true">
+      <svg viewBox="0 0 24 48" fill="none">
+        <path d="M12 0 Q 16 12, 12 24 Q 8 36, 12 48" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-dasharray="3 4"></path>
+      </svg>
+    </div>
+
+    <!-- ═══════════ EXPERTISE ═══════════ -->
+    <section id="expertise" class="expertise-section" aria-label="Technical expertise">
+      <div class="container">
+        <p class="section-label reveal visible">expertise</p>
+        <h2 class="section-title reveal visible">
+          what i work with
+          <span class="section-title-annotation" aria-hidden="true">
+            <span>always learning more</span>
+            <svg viewBox="0 0 36 30" class="draw-arrow drawn">
+              <path d="M4 8 C 12 4, 22 6, 32 12 M32 12 l -9 -1 M32 12 l -4 7" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" pathLength="1"></path>
+            </svg>
+          </span>
+        </h2>
+
+        <div class="expertise-grid">
+          <div class="expertise-group reveal visible">
+            <div class="expertise-group-title">Technical</div>
+            <div class="expertise-pills">
+              <span class="expertise-pill">Python &amp; Data Analysis</span>
+              <span class="expertise-pill">SQL / Relational DBs</span>
+              <span class="expertise-pill">Networking &amp; Security</span>
+              <span class="expertise-pill">Cloud Computing</span>
+              <span class="expertise-pill">Machine Learning</span>
+              <span class="expertise-pill">AI Systems</span>
+            </div>
+          </div>
+
+          <div class="expertise-group reveal visible">
+            <div class="expertise-group-title">Professional</div>
+            <div class="expertise-pills">
+              <span class="expertise-pill">Systems Support</span>
+              <span class="expertise-pill">Project Coordination</span>
+              <span class="expertise-pill">Database Management</span>
+              <span class="expertise-pill">Technical Support</span>
+              <span class="expertise-pill">Digital Transformation</span>
+              <span class="expertise-pill">IT Operations</span>
+            </div>
+          </div>
+
+          <div class="expertise-group reveal visible">
+            <div class="expertise-group-title">Tools &amp; Platforms</div>
+            <div class="expertise-pills">
+              <span class="expertise-pill">Python</span>
+              <span class="expertise-pill">SQL</span>
+              <span class="expertise-pill">Linux</span>
+              <span class="expertise-pill">AWS</span>
+              <span class="expertise-pill">Pandas</span>
+              <span class="expertise-pill">scikit-learn</span>
+              <span class="expertise-pill">Git</span>
+              <span class="expertise-pill">Networking</span>
+              <span class="expertise-pill">Cloud</span>
+            </div>
+          </div>
+
+          <div class="expertise-group reveal visible">
+            <div class="expertise-group-title">Domains</div>
+            <div class="expertise-pills">
+              <span class="expertise-pill">Banking Tech</span>
+              <span class="expertise-pill">FinTech Systems</span>
+              <span class="expertise-pill">AI / ML Research</span>
+              <span class="expertise-pill">Data Engineering</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Section connector -->
+    <div class="section-connector" aria-hidden="true">
+      <svg viewBox="0 0 24 48" fill="none">
+        <path d="M12 0 Q 8 12, 12 24 Q 16 36, 12 48" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-dasharray="3 4"></path>
+      </svg>
+    </div>
+
+    <!-- ═══════════ QUOTE BANNER ═══════════ -->
+    <section class="quote-section" aria-label="Personal motto">
+      <div class="container">
+        <div class="quote-inner reveal visible">
+          <p class="quote-text">
+            coding ideas into <span class="quote-highlight">reality</span>,<br>
+            byte by byte<span class="quote-cursor" aria-hidden="true"></span>
+          </p>
+          <p class="quote-attribution">— shailesh</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- Section connector -->
+    <div class="section-connector" aria-hidden="true">
+      <svg viewBox="0 0 24 48" fill="none">
+        <path d="M12 0 Q 16 12, 12 24 Q 8 36, 12 48" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-dasharray="3 4"></path>
+      </svg>
+    </div>
+
+    <!-- ═══════════ CONNECT ═══════════ -->
+    <section id="connect" class="connect-section" aria-label="Connect and social links">
+      <div class="container">
+        <p class="section-label reveal visible">connect</p>
+        <h2 class="section-title reveal visible">let's be friends</h2>
+
+        <div class="connect-grid reveal visible">
+          <!-- Email -->
+          <a href="mailto:acharyashailesh8@gmail.com" class="connect-link" aria-label="Send email">
+            <span class="connect-icon">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+                <rect x="2" y="4" width="20" height="16" rx="2"></rect>
+                <path d="m22 7-8.97 5.7a1.94 1.94 0 0 1-2.06 0L2 7"></path>
+              </svg>
+            </span>
+            <span class="connect-info">
+              <span class="connect-label">Email</span>
+              <span class="connect-handle">acharyashailesh8@gmail.com</span>
+            </span>
+            <span class="connect-arrow">↗</span>
+          </a>
+
+          <!-- GitHub -->
+          <a href="https://github.com/iamshaileshacharya" target="_blank" rel="noopener noreferrer" class="connect-link" aria-label="GitHub profile">
+            <span class="connect-icon">
+              <svg viewBox="0 0 24 24" fill="currentColor">
+                <path d="M12 .297c-6.63 0-12 5.373-12 12 0 5.303 3.438 9.8 8.205 11.385.6.113.82-.258.82-.577 0-.285-.01-1.04-.015-2.04-3.338.724-4.042-1.61-4.042-1.61C4.422 18.07 3.633 17.7 3.633 17.7c-1.087-.744.084-.729.084-.729 1.205.084 1.838 1.236 1.838 1.236 1.07 1.835 2.809 1.305 3.495.998.108-.776.417-1.305.76-1.605-2.665-.3-5.466-1.332-5.466-5.93 0-1.31.465-2.38 1.235-3.22-.135-.303-.54-1.523.105-3.176 0 0 1.005-.322 3.3 1.23.96-.267 1.98-.399 3-.405 1.02.006 2.04.138 3 .405 2.28-1.552 3.285-1.23 3.285-1.23.645 1.653.24 2.873.12 3.176.765.84 1.23 1.91 1.23 3.22 0 4.61-2.805 5.625-5.475 5.92.42.36.81 1.096.81 2.22 0 1.606-.015 2.896-.015 3.286 0 .315.21.69.825.57C20.565 22.092 24 17.592 24 12.297c0-6.627-5.373-12-12-12"></path>
+              </svg>
+            </span>
+            <span class="connect-info">
+              <span class="connect-label">GitHub</span>
+              <span class="connect-handle">iamshaileshacharya</span>
+            </span>
+            <span class="connect-arrow">↗</span>
+          </a>
+
+          <!-- LinkedIn -->
+          <a href="https://linkedin.com/in/shailesh-acharya" target="_blank" rel="noopener noreferrer" class="connect-link" aria-label="LinkedIn profile">
+            <span class="connect-icon">
+              <svg viewBox="0 0 24 24" fill="currentColor">
+                <path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433c-1.144 0-2.063-.926-2.063-2.065 0-1.138.92-2.063 2.063-2.063 1.14 0 2.064.925 2.064 2.063 0 1.139-.925 2.065-2.064 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"></path>
+              </svg>
+            </span>
+            <span class="connect-info">
+              <span class="connect-label">LinkedIn</span>
+              <span class="connect-handle">shailesh-acharya</span>
+            </span>
+            <span class="connect-arrow">↗</span>
+          </a>
+
+          <!-- Twitter / X -->
+          <a href="https://twitter.com/ping_shailesh" target="_blank" rel="noopener noreferrer" class="connect-link" aria-label="Twitter profile">
+            <span class="connect-icon">
+              <svg viewBox="0 0 24 24" fill="currentColor">
+                <path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"></path>
+              </svg>
+            </span>
+            <span class="connect-info">
+              <span class="connect-label">Twitter / X</span>
+              <span class="connect-handle">@ping_shailesh</span>
+            </span>
+            <span class="connect-arrow">↗</span>
+          </a>
+        </div>
+
+        <!-- Annotation -->
+        <div class="connect-annotation reveal visible">
+          <svg viewBox="0 0 64 56" class="draw-arrow drawn" aria-hidden="true">
+            <path d="M60 22 C 44 10, 26 12, 8 26 M8 26 l 11 -7 M8 26 l 12 3" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" pathLength="1"></path>
+          </svg>
+          <span>don't be shy — say hi!</span>
+        </div>
+      </div>
+    </section>
+
+  </main>
+
+  <!-- ═══════════ FOOTER ═══════════ -->
+  <footer role="contentinfo">
+    <div class="container footer-inner">
+      <span class="footer-copy">© 2024–2026 shailesh acharya</span>
+      <span class="footer-signoff">made with ☕ in kathmandu</span>
+      <div class="footer-links">
+        <a href="https://github.com/iamshaileshacharya" target="_blank" rel="noopener noreferrer">github</a>
+        <a href="https://linkedin.com/in/shailesh-acharya" target="_blank" rel="noopener noreferrer">linkedin</a>
+        <a href="mailto:acharyashailesh8@gmail.com">email</a>
+      </div>
+    </div>
+  </footer>
+
+  <!-- ═══════════ JAVASCRIPT ═══════════ -->
+  <script type="text/javascript">
+    (function() {
+      'use strict';
+
+      // ── DARK MODE ──
+      const html = document.documentElement;
+      const theme = localStorage.getItem('theme') || 'light';
+      html.className = theme;
+
+      function toggleTheme() {
+        const next = html.classList.contains('dark') ? 'light' : 'dark';
+        html.className = next;
+        localStorage.setItem('theme', next);
+        document.querySelector('meta[name="theme-color"]')
+          .setAttribute('content', next === 'dark' ? '#111111' : '#f8f8f6');
+      }
+
+      document.getElementById('themeToggle').addEventListener('click', toggleTheme);
+      document.getElementById('themeToggleMobile').addEventListener('click', toggleTheme);
+
+      // Set initial theme-color
+      if (theme === 'dark') {
+        document.querySelector('meta[name="theme-color"]').setAttribute('content', '#111111');
+      }
+
+      // ── NEPAL CLOCK ──
+      function updateClock() {
+        const now = new Date();
+        // Nepal is UTC+5:45
+        const utc = now.getTime() + now.getTimezoneOffset() * 60000;
+        const nepal = new Date(utc + 5.75 * 3600000);
+        const h = nepal.getHours();
+        const m = nepal.getMinutes().toString().padStart(2, '0');
+        const period = h >= 12 ? 'pm' : 'am';
+        const h12 = h % 12 || 12;
+        document.getElementById('nepalClock').textContent = h12 + ':' + m + ' ' + period + ' npt';
+      }
+      updateClock();
+      setInterval(updateClock, 30000);
+
+      // ── SCROLL PROGRESS ──
+      const progressBar = document.getElementById('scroll-progress');
+      function updateProgress() {
+        const scrollTop = window.scrollY;
+        const docHeight = document.documentElement.scrollHeight - window.innerHeight;
+        const percent = docHeight > 0 ? (scrollTop / docHeight) * 100 : 0;
+        progressBar.style.width = percent + '%';
+      }
+      window.addEventListener('scroll', updateProgress, { passive: true });
+
+      // ── SCROLL REVEAL (with stagger support) ──
+      const reveals = document.querySelectorAll('.reveal');
+      const revealObserver = new IntersectionObserver(function(entries) {
+        entries.forEach(function(entry) {
+          if (entry.isIntersecting) {
+            entry.target.classList.add('visible');
+            revealObserver.unobserve(entry.target);
+          }
+        });
+      }, { threshold: 0.1, rootMargin: '0px 0px -40px 0px' });
+
+      reveals.forEach(function(el) { revealObserver.observe(el); });
+
+      // ── DRAW-ON-SCROLL SVG ARROWS ──
+      const drawArrows = document.querySelectorAll('.draw-arrow');
+      const arrowObserver = new IntersectionObserver(function(entries) {
+        entries.forEach(function(entry) {
+          if (entry.isIntersecting) {
+            entry.target.classList.add('drawn');
+            arrowObserver.unobserve(entry.target);
+          }
+        });
+      }, { threshold: 0.3 });
+
+      drawArrows.forEach(function(arrow) { arrowObserver.observe(arrow); });
+
+      // ── COUNT-UP ANIMATION (with bounce at end) ──
+      const statValues = document.querySelectorAll('.stat-value[data-count]');
+      const countObserver = new IntersectionObserver(function(entries) {
+        entries.forEach(function(entry) {
+          if (entry.isIntersecting) {
+            const el = entry.target;
+            const target = parseInt(el.dataset.count, 10);
+            const suffix = el.dataset.suffix || '';
+            const duration = 1200;
+            const start = performance.now();
+
+            function animate(now) {
+              const elapsed = now - start;
+              const progress = Math.min(elapsed / duration, 1);
+              // Ease-out with slight overshoot (bounce feel)
+              const eased = progress < 1
+                ? 1 - Math.pow(1 - progress, 3)
+                : 1;
+              const current = Math.round(target * eased);
+              el.textContent = current + suffix;
+              if (progress < 1) {
+                requestAnimationFrame(animate);
+              } else {
+                // Trigger sparkle animation
+                const item = el.closest('.stat-item');
+                if (item) item.classList.add('counted');
+              }
+            }
+
+            requestAnimationFrame(animate);
+            countObserver.unobserve(el);
+          }
+        });
+      }, { threshold: 0.5 });
+
+      statValues.forEach(function(el) { countObserver.observe(el); });
+
+      // ── EXPERIENCE ACCORDION ──
+      document.querySelectorAll('.exp-header').forEach(function(btn) {
+        btn.addEventListener('click', function() {
+          const item = btn.closest('.exp-item');
+          const details = item.querySelector('.exp-details');
+          const isOpen = item.classList.contains('open');
+
+          // Close all
+          document.querySelectorAll('.exp-item.open').forEach(function(openItem) {
+            if (openItem !== item) {
+              openItem.classList.remove('open');
+              openItem.querySelector('.exp-header').setAttribute('aria-expanded', 'false');
+              const d = openItem.querySelector('.exp-details');
+              d.style.maxHeight = '0';
+              d.style.opacity = '0';
+            }
+          });
+
+          // Toggle current
+          if (isOpen) {
+            item.classList.remove('open');
+            btn.setAttribute('aria-expanded', 'false');
+            details.style.maxHeight = '0';
+            details.style.opacity = '0';
+          } else {
+            item.classList.add('open');
+            btn.setAttribute('aria-expanded', 'true');
+            details.style.maxHeight = details.scrollHeight + 'px';
+            details.style.opacity = '1';
+          }
+        });
+      });
+
+      // ── SMOOTH SCROLL FOR NAV LINKS ──
+      document.querySelectorAll('a[href^="#"]').forEach(function(a) {
+        a.addEventListener('click', function(e) {
+          const target = document.querySelector(a.getAttribute('href'));
+          if (target) {
+            e.preventDefault();
+            target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+          }
+        });
+      });
+
+
+      // ── MAGNETIC CTA BUTTON ──
+      var magneticBtns = document.querySelectorAll('.btn-magnetic');
+      magneticBtns.forEach(function(wrap) {
+        var btn = wrap.querySelector('.btn-primary');
+        if (!btn) return;
+
+        wrap.addEventListener('mousemove', function(e) {
+          var rect = wrap.getBoundingClientRect();
+          var x = e.clientX - rect.left - rect.width / 2;
+          var y = e.clientY - rect.top - rect.height / 2;
+          var strength = 0.25;
+          btn.style.transform = 'translate(' + (x * strength) + 'px, ' + (y * strength) + 'px) scale(1.02)';
+        });
+
+        wrap.addEventListener('mouseleave', function() {
+          btn.style.transform = '';
+        });
+      });
+
+    })();
+  </script>
+<script type="module" src="https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496" integrity="sha512-ZE9pZaUXND66v380QUtch/5sE9tPFh2zg45pR2PB0CVkCtOREv2AJKkSidISWkysEuQ0EH8faUU5du78bx87UQ==" data-cf-beacon="{&quot;version&quot;:&quot;2024.11.0&quot;,&quot;token&quot;:&quot;f211656f84c840b0aec7167b5f0a391f&quot;,&quot;r&quot;:1}" crossorigin="anonymous"></script>
+
+
+</body></html>

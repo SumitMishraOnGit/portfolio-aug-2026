@@ -10,8 +10,9 @@ import Connect from './components/Connect.jsx'
 import Footer from './components/Footer.jsx'
 
 export default function App() {
-  const [dark, setDark] = useState(false)
+  const [dark, setDark] = useState(true)
   const [activeSection, setActiveSection] = useState('hero')
+  const [scrollPct, setScrollPct] = useState(0)
   const [showResumeNav, setShowResumeNav] = useState(false)
 
   // Dark mode
