@@ -2,7 +2,19 @@ const CARDS = [
   {
     emoji: '💼',
     label: 'EXPERIENCE',
-    title: 'Software Engineer @ Atomxel',
+    title: (
+      <>
+        Software Engineer @{' '}
+        <a
+          href="https://www.atomxel.com/"
+          target="_blank"
+          rel="noopener noreferrer"
+          style={{ textDecoration: 'underline', color: 'inherit' }}
+        >
+          Atomxel
+        </a>
+      </>
+    ),
     body: 'June 2025 – May 2026. Refactored 4 production apps, built payment systems, and optimized database queries — shipping production features at scale.',
     note: '* 1 year production experience',
     span2: true,
