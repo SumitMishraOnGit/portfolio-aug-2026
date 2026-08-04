@@ -49,7 +49,8 @@ export default function Experience() {
       <p className="section-sub reveal">
         the journey ✨ ·{' '}
         <a
-          href="/resume.pdf"
+          href="/Sumit-Mishra-august-resume.pdf"
+          download="Sumit-Mishra-august-resume.pdf"
           target="_blank"
           rel="noopener noreferrer"
           style={{ textDecoration: 'underline', color: 'var(--muted)', fontSize: '13.5px' }}

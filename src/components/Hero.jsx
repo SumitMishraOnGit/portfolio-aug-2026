@@ -41,14 +41,9 @@ export default function Hero() {
             )}
           </h1>
 
-          {/* Works at */}
-          <p className="hero-at">
-            worked @ <a href="https://www.atomxel.com/" target="_blank" rel="noopener noreferrer" style={{ textDecoration: 'underline', color: 'inherit' }}>Atomxel</a>
-          </p>
-
           {/* Subtitle */}
           <p className="hero-subtitle">
-            Software Engineer focused on building real-world systems.Shipping production code across Web, Mobile & Backend — adapting tools and tech stacks to solve the problem at hand.
+            Software Engineer focused on building real-world systems. Shipping production code across Web, Mobile & Backend — adapting tools and tech stacks to solve the problem at hand.
           </p>
 
           {/* Location + live clock */}
@@ -64,7 +59,8 @@ export default function Hero() {
               say hello 👋
             </a>
             <a
-              href="/resume.pdf"
+              href="/Sumit-Mishra-august-resume.pdf"
+              download="Sumit-Mishra-august-resume.pdf"
               target="_blank"
               rel="noopener noreferrer"
               className="btn-secondary"

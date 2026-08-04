@@ -49,7 +49,8 @@ export default function Navbar({ dark, setDark, activeSection, showResumeNav }) 
             ))}
             {showResumeNav && (
               <a
-                href="/resume.pdf"
+                href="/Sumit-Mishra-august-resume.pdf"
+                download="Sumit-Mishra-august-resume.pdf"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="nav-resume-link"
