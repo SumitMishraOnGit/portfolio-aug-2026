@@ -62,5 +62,13 @@
   <body>
     <div id="root"></div>
     <script type="module" src="/src/main.jsx"></script>
+    <!-- oneko: cat follows cursor — desktop only -->
+    <script>
+      if (!('ontouchstart' in window) && window.matchMedia('(pointer: fine)').matches) {
+        var s = document.createElement('script');
+        s.src = '/oneko.js';
+        document.body.appendChild(s);
+      }
+    </script>
   </body>
 </html>
