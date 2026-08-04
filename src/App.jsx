@@ -12,19 +12,25 @@ import Footer from './components/Footer.jsx'
 export default function App() {
   const [dark, setDark] = useState(false)
   const [activeSection, setActiveSection] = useState('hero')
-  const [scrollPct, setScrollPct] = useState(0)
+  const [showResumeNav, setShowResumeNav] = useState(false)
 
   // Dark mode
   useEffect(() => {
     document.documentElement.classList.toggle('dark', dark)
   }, [dark])
 
-  // Scroll progress
+  // Scroll progress & past-hero check
   useEffect(() => {
     const handleScroll = () => {
       const el = document.documentElement
       const pct = (el.scrollTop / (el.scrollHeight - el.clientHeight)) * 100
       setScrollPct(Math.min(pct, 100))
+
+      const heroEl = document.getElementById('hero')
+      if (heroEl) {
+        const heroBottom = heroEl.getBoundingClientRect().bottom
+        setShowResumeNav(heroBottom < 100)
+      }
     }
     window.addEventListener('scroll', handleScroll, { passive: true })
     return () => window.removeEventListener('scroll', handleScroll)
@@ -70,6 +76,7 @@ export default function App() {
         dark={dark}
         setDark={setDark}
         activeSection={activeSection}
+        showResumeNav={showResumeNav}
       />
       <main>
         <section id="hero"><Hero /></section>

@@ -63,6 +63,15 @@ export default function Hero() {
             <a href="mailto:sumitmishra9606@gmail.com" className="btn-primary" id="cta-hello">
               say hello 👋
             </a>
+            <a
+              href="/resume.pdf"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="btn-secondary"
+              id="cta-resume"
+            >
+              resume ↗
+            </a>
             <span className="cta-note">i actually reply</span>
           </div>
 

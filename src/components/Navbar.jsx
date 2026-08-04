@@ -30,7 +30,7 @@ function MoonIcon() {
   )
 }
 
-export default function Navbar({ dark, setDark, activeSection }) {
+export default function Navbar({ dark, setDark, activeSection, showResumeNav }) {
   return (
     <>
       <nav className="navbar">
@@ -47,6 +47,16 @@ export default function Navbar({ dark, setDark, activeSection }) {
                 {link.label}
               </a>
             ))}
+            {showResumeNav && (
+              <a
+                href="/resume.pdf"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="nav-resume-link"
+              >
+                cv ↗
+              </a>
+            )}
             <div className="nav-sep" />
             <button
               className="theme-btn"

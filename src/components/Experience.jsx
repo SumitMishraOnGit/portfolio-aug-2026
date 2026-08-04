@@ -46,7 +46,17 @@ export default function Experience() {
     <div className="container">
       <span className="section-label">experience</span>
       <h2 className="section-heading reveal">the path so far</h2>
-      <p className="section-sub reveal">the journey ✨</p>
+      <p className="section-sub reveal">
+        the journey ✨ ·{' '}
+        <a
+          href="/resume.pdf"
+          target="_blank"
+          rel="noopener noreferrer"
+          style={{ textDecoration: 'underline', color: 'var(--muted)', fontSize: '13.5px' }}
+        >
+          formal resume pdf ↗
+        </a>
+      </p>
 
       <div className="timeline">
         {TIMELINE.map((item, i) => (
