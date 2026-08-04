@@ -1,7 +1,7 @@
 import { useEffect, useState } from 'react'
 import profileImg from '../assets/profile.jpg'
 
-const NAME = 'sumit mishra'
+const NAME = 'Sumit Mishra'
 
 function LetterSpan({ char }) {
   if (char === ' ') return <span className="word">&nbsp;</span>
