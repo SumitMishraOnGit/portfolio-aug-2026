@@ -1,6 +1,7 @@
 const TIMELINE = [
   {
     num: '1',
+    type: 'job',
     company: '⚡ Atomxel',
     role: 'Software Engineer Intern',
     duration: 'June 2025 – May 2026',
@@ -17,6 +18,23 @@ const TIMELINE = [
   },
   {
     num: '2',
+    type: 'freelance',
+    company: '🏨 Hotel Casual',
+    role: 'Flutter Developer',
+    duration: 'Aug 2026',
+    location: 'Remote · Freelance',
+    description:
+      'A full-featured 3-role hospitality marketplace — built entirely solo from concept to code. Workers find casual banquet shifts, hotels post and manage job slots, and a super admin oversees the whole platform.',
+    stack: ['Flutter', 'Firebase Auth', 'Firestore', 'Firebase RTDB', 'FCM'],
+    bullets: [
+      'Owned the entire product lifecycle — market research, UI/UX design, architecture decisions, and every line of code shipped.',
+      'Engineered phone OTP auth (+91) with automatic role-based routing, KYC document upload (Aadhaar / License), and human-readable job IDs (HC-XXXX).',
+      'Built real-time notifications via Firebase RTDB (new applicant, accepted, job cancelled) with FCM token management and mark-as-read support across all 3 user types.',
+    ],
+    badge: '📱 freelance mvp',
+  },
+  {
+    num: '3',
     company: '💳 thePaymentApp',
     role: 'Solo Builder',
     duration: 'Aug 2025',
@@ -29,7 +47,7 @@ const TIMELINE = [
     badge: null,
   },
   {
-    num: '3',
+    num: '4',
     company: '💸 AlTogether',
     role: 'Solo Builder',
     duration: '2025',
@@ -64,7 +82,7 @@ export default function Experience() {
         {TIMELINE.map((item, i) => (
           <div
             key={item.num}
-            className="timeline-item reveal"
+            className={`timeline-item reveal${item.type === 'freelance' ? ' timeline-item--freelance' : ''}`}
             style={{ transitionDelay: `${i * 100}ms` }}
           >
             <div className="timeline-num">{item.num}</div>
@@ -77,6 +95,16 @@ export default function Experience() {
               <p className="timeline-role">
                 {item.role} · <em>{item.location}</em>
               </p>
+              {item.description && (
+                <p className="timeline-description">{item.description}</p>
+              )}
+              {item.stack && (
+                <div className="timeline-stack">
+                  {item.stack.map((tag) => (
+                    <span key={tag} className="timeline-tag">{tag}</span>
+                  ))}
+                </div>
+              )}
               <ul className="timeline-bullets">
                 {item.bullets.map((b, j) => (
                   <li key={j}>{b}</li>
