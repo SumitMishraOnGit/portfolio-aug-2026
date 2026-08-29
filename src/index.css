@@ -865,9 +865,9 @@ main { padding-top: var(--nav-h); }
    EXPERTISE
    ═══════════════════════════════════════════════════════ */
 .skills-grid {
-  display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
-  gap: 32px;
+  display: flex;
+  flex-direction: column;
+  gap: 36px;
   margin-bottom: 48px;
 }
 
@@ -884,24 +884,45 @@ main { padding-top: var(--nav-h); }
 .skill-list {
   list-style: none;
   display: flex;
-  flex-direction: column;
+  flex-wrap: wrap;
   gap: 7px;
+  padding: 0;
 }
 
-.skill-list li {
-  font-size: 14px;
-  color: var(--muted);
-  display: flex;
+.skill-chip {
+  display: inline-flex;
   align-items: center;
-  gap: 7px;
+  gap: 6px;
+  padding: 5px 11px 5px 8px;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-full);
+  transition: border-color 0.18s ease, background 0.18s ease;
+  cursor: default;
+}
+.skill-chip:hover {
+  border-color: var(--accent);
+  background: var(--accent-light);
 }
 
-.skill-list li::before {
-  content: '✦';
-  font-size: 8px;
-  color: var(--accent);
-  opacity: 0.6;
+.skill-icon {
+  font-size: 16px;
+  line-height: 1;
   flex-shrink: 0;
+}
+
+.skill-symbol {
+  font-size: 13px;
+  color: var(--accent);
+  flex-shrink: 0;
+  line-height: 1;
+}
+
+.skill-name {
+  font-size: 13px;
+  color: var(--muted);
+  font-weight: 500;
+  white-space: nowrap;
 }
 
 .skill-gaps {
