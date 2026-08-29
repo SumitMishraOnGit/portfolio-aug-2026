@@ -7,9 +7,9 @@ const TIMELINE = [
     duration: 'June 2025 – May 2026',
     location: 'Noida, India',
     bullets: [
-      'Migrated legacy PHP CodeIgniter routes to Node.js/Express — accelerated Bridg e-commerce launch by 30% and integrated Google Places + Razorpay APIs across 4 order types.',
+      <>Migrated legacy PHP CodeIgniter routes to Node.js/Express — accelerated <a href="https://play.google.com/store/apps/details?id=com.dartmic.bridg&pcampaignid=web_share" target="_blank" rel="noopener noreferrer" className="timeline-inline-link">Bridg ↗</a> e-commerce launch by 30% and integrated Google Places + Razorpay APIs across 4 order types.</>,
       'Slashed API response times by 95% (32s → 1.3s) by profiling queries, adding indexes, and optimizing payload serialization — killed timeouts under concurrent load.',
-      'Rebuilt Orbit loyalty platform for 10K+ users: automated attendance tracking with anti-spoofing GPS verification and real-time alarm notifications.',
+      <>Rebuilt <a href="https://play.google.com/store/apps/details?id=com.dartmic.orbitbearings&pcampaignid=web_share" target="_blank" rel="noopener noreferrer" className="timeline-inline-link">Orbit ↗</a> loyalty platform for 10K+ users: automated attendance tracking with anti-spoofing GPS verification and real-time alarm notifications.</>,
       'Engineered full service dispatch + billing flow from scratch — automated invoicing with online/COD payments, eliminating manual technician dispatching.',
       'Refactored 4 Play Store apps (Bridg, Orbit, JMP, S Mobility) to dynamically load branding configs from a tenant admin panel, staying under Play Store\'s strict 16KB size limits.',
       'Achieved 100% audit accuracy for travel reimbursements — built a GPS sensor-to-backend cumulative distance tracking system replacing manual travel logs.',
@@ -26,6 +26,7 @@ const TIMELINE = [
     description:
       'A full-featured 3-role hospitality marketplace — built entirely solo from concept to code. Workers find casual banquet shifts, hotels post and manage job slots, and a super admin oversees the whole platform.',
     stack: ['Flutter', 'Firebase Auth', 'Firestore', 'Firebase RTDB', 'FCM'],
+    github: 'https://github.com/SumitMishraOnGit/hotel-casual',
     bullets: [
       'Owned the entire product lifecycle — market research, UI/UX design, architecture decisions, and every line of code shipped.',
       'Engineered phone OTP auth (+91) with automatic role-based routing, KYC document upload (Aadhaar / License), and human-readable job IDs (HC-XXXX).',
@@ -90,7 +91,14 @@ export default function Experience() {
             <div className="timeline-body">
               <div className="timeline-header">
                 <span className="timeline-company">{item.company}</span>
-                <span className="timeline-duration">{item.duration}</span>
+                <div style={{ display: 'flex', alignItems: 'center', gap: '10px' }}>
+                  {item.github && (
+                    <a href={item.github} target="_blank" rel="noopener noreferrer" className="timeline-ext-link">
+                      github ↗
+                    </a>
+                  )}
+                  <span className="timeline-duration">{item.duration}</span>
+                </div>
               </div>
               <p className="timeline-role">
                 {item.role} · <em>{item.location}</em>

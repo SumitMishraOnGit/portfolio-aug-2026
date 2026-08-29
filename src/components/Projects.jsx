@@ -1,5 +1,13 @@
 const PROJECTS = [
   {
+    name: 'Hotel Casual',
+    date: 'Aug 2026',
+    desc: 'A full-featured 3-role hospitality marketplace built solo from scratch — Workers browse and apply for casual banquet/cook/driver shifts, Hotels post and manage multi-slot jobs, and a Super Admin oversees the entire platform. Phone OTP auth, KYC upload, real-time Firebase RTDB notifications, and human-readable job IDs (HC-XXXX).',
+    stack: ['Flutter', 'Firebase Auth', 'Firestore', 'Firebase RTDB', 'FCM'],
+    live: null,
+    github: 'https://github.com/SumitMishraOnGit/hotel-casual',
+  },
+  {
     name: 'thePaymentApp',
     date: 'Aug 2025',
     desc: 'A secure digital wallet supporting real money transactions via Razorpay. Three-layer payment defense: HMAC signing, server-side balance verification, and ACID transactions to ensure zero inconsistencies. 95% mobile responsiveness.',
